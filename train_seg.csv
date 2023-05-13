@@ -1,0 +1,1081 @@
+,id,title,label
+0,train_0,trùm logistics name lên kế_hoạch tăng gấp đôi lợi_nhuận lên number tỷ đồng,2
+1,train_1,đhđcđ name name ngợi name thị_phần số number nhưng không thoả_mãn với vị_trí số number,1
+2,train_2,cổ_phiếu nhóm name giảm mạnh dù thị_trường lên đỉnh,1
+3,train_3,cổ_phiếu lên đỉnh con gái chủ_tịch name name đăng_ký bán toàn_bộ cổ_phiếu,1
+4,train_4,name cổ_phiếu bứt_phá percent lãi_ròng date đầu năm tăng percent lên mức number tỷ đồng,2
+5,train_5,name lợi_nhuận date của các cổ_phiếu hàng_hiệu,1
+6,train_6,name mua lại percent cổ_phần name từ name name xác_định loc thị_trường trọng_điểm để đầu_tư dự_án năng_lượng tái_tạo,2
+7,train_7,name name name dự_kiến phát_hành gần number triệu cổ_phiếu trả cổ_tức date,2
+8,train_8,sự vực dậy sau hàng thập_kỷ của những thương_hiệu vang bóng một thời,2
+9,train_9,number sai_lầm kể_cả nhà_đầu_tư chứng_khoán lâu năm cũng mắc phải,1
+10,train_10,chủ_tịch khẳng_định name bỏ name sau_này ôm hận vì đâu name vẫn mạnh_tay chốt lãi ?,1
+11,train_11,tiếp_tục kéo_dài thời_hạn giảm_giá dịch_vụ chứng_khoán đến hết date,2
+12,train_12,name theo khuyến_nghị mua cổ_phiếu tốt vì sao vẫn thua_lỗ nặng giữa uptrend ?,1
+13,train_13,phiên date khối ngoại_tiếp tục bán ròng hơn number tỷ đồng tập_trung bán name,0
+14,train_14,name trần name tăng mạnh cuối phiên name lên ngưỡng number điểm,2
+15,train_15,name chuẩn_bị chi number tỷ đồng trả cổ_tức cho cổ_đông,2
+16,train_16,name name bất_ngờ trình phương_án chào_bán riêng_lẻ number triệu cổ_phiếu với giá number đồng / cp bằng nửa giá thị_trường,0
+17,train_17,thanh khoản thị_trường tăng mạnh name báo lãi kỷ_lục number tỷ đồng trong date,2
+18,train_18,name name chốt danh_sách cổ_đông trả cổ_tức bằng tiền tỷ_lệ percent,2
+19,train_19,dược_phẩm name name lợi_nhuận quý date đạt number tỷ đồng chuẩn_bị chia cổ_tức bằng tiền tỷ_lệ percent,2
+20,train_20,name name liên_tiếp huy_động number tỷ đồng trái_phiếu một phần sẽ dùng đảo_nợ gốc lãi tại ngân_hàng,0
+21,train_21,name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+22,train_22,name name doanh_thu tháng date đạt number tỷ đồng các thị_trường xuất_khẩu đồng_loạt tăng tốt,2
+23,train_23,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+24,train_24,chứng_khoán name name name chuẩn_bị phát_hành cổ_phiếu thưởng tỷ_lệ number,2
+25,train_25,đầu_tư name name công đăng_ký bán toàn_bộ number triệu cổ_phiếu name name name,0
+26,train_26,cổ_phiếu của công_ty cung_cấp sơn cho name name name tăng gần gấp đôi từ đầu năm,2
+27,train_27,name name sẽ thêm mới name name name và name trong kỳ review date ?,1
+28,train_28,name name name nghiệm mới thông_minh và tiện_lợi hơn trong giao_dịch chứng_khoán,2
+29,train_29,mặc cho chỉ_số name tăng gần percent chứng_chỉ name name chỉ tăng vỏn_vẹn percent trong phiên date,2
+30,train_30,name name vượt number điểm và bỏ xa name name tuy_nhiên rủi_ro dần tăng lên ?,1
+31,train_31,thị_trường tăng mạnh khối ngoại vẫn bán ròng hơn number tỷ đồng trong phiên date,0
+32,train_32,name trở_thành công_ty chứng_khoán đầu_tiên vốn hoá number tỷ name,2
+33,train_33,thị_trường thăng_hoa nhiều cổ_phiếu tỷ đô vẫn ngược dòng giảm trong date đầu năm,0
+34,train_34,cổ_phiếu lao dốc không phanh cổ_đông muốn được bảo_vệ chủ_tịch name nhắn_nhủ kiên_nhẫn sẽ hái quả ngọt !,0
+35,train_35,name mạnh name trong phiên chiều name name bứt_phá gần number điểm trong ngày đáo_hạn phái_sinh date,2
+36,train_36,name sẽ xem_xét niêm_yết name name sau khi tích_hợp kinh_doanh giữa mảng tiêu_dùng chế_biến thịt với hệ_thống name đạt kỳ_vọng,1
+37,train_37,name tăng hơn percent lãi_ròng sau date lên mức number tỷ đồng bán_sỉ vàng miếng tăng_trưởng mạnh đến percent,2
+38,train_38,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+39,train_39,tăng trần number phiên name đăng_ký bán number triệu cổ_phần name name,0
+40,train_40,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+41,train_41,name name name name name đạt number tỷ doanh_thu sau number tháng,2
+42,train_42,name name tiếp_tục hút number tỷ trái_phiếu trong quý date,2
+43,train_43,name name chào_bán number triệu cổ_phiếu cho cổ_đông hiện_hữu tăng vốn_điều_lệ gấp đôi,2
+44,train_44,name name dự_chi gần number tỷ đồng trả cổ_tức cho cổ_đông,2
+45,train_45,name name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+46,train_46,name hàng tồn tích_luỹ mạnh name name có_thể đạt đỉnh lợi_nhuận trong quý date,2
+47,train_47,khẩu_vị quỹ tỷ đô name đang thay_đổi như_thế_nào ?,1
+48,train_48,chứng_khoán name name name lên phương_án phát_hành tăng vốn cho cổ_đông nâng vốn_điều_lệ lên number tỷ đồng,2
+49,train_49,trong khi name name vẫn loay_hoay name30 name đã vượt number điểm xác_lập đỉnh_cao mới,2
+50,train_50,xây_dựng name name name vừa trúng_thầu trị_giá number tỷ đồng dự_án của loc và name,2
+51,train_51,name bị huỷ công_ty đại_chúng theo quy_định của name name khoán mới,0
+52,train_52,thị_trường tăng mạnh khối ngoại vẫn bán ròng hơn number tỷ đồng trong phiên date,0
+53,train_53,name name và name sẽ lọt rổ name trong kỳ review date ?,1
+54,train_54,name name vượt ngưỡng number điểm hàng_loạt cổ_phiếu bluechips tăng nóng,2
+55,train_55,name name name name vừa mua thêm number triệu cổ_phiếu name của name,2
+56,train_56,name name triển_khai phương_án phát_hành number triệu cổ_phiếu thưởng,2
+57,train_57,name đang dần trỗi dậy,2
+58,train_58,nhiệt_điện name name name chi tiếp number tỷ đồng trả cổ_tức đợt date,2
+59,train_59,name tăng vốn thông_qua chào_bán cổ_phần cho cổ_đông date,2
+60,train_60,chứng_khoán thăng_hoa ít_nhất number người đã sở_hữu lượng cổ_phiếu trên number tỷ đồng tập_trung chủ_yếu vào name name và name name,2
+61,train_61,name name name triển_khai phương_án chào_bán riêng_lẻ number triệu cổ_phiếu,0
+62,train_62,với number triệu đồng có nên đầu_tư chứng_khoán ?,1
+63,train_63,name name thông_qua phương_án phát_hành number triệu cổ_phiếu trả cổ_tức,2
+64,train_64,tư_duy đầu_tư của hoa_hậu chứng_khoán name name name name mất_ngủ vì number triệu đồng thì làm_sao kiếm được number triệu !,1
+65,train_65,name name đại_gia xăng_dầu name name name tiếp_tục mua number triệu cổ_phiếu sắp trở_thành cổ_đông lớn,2
+66,train_66,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+67,train_67,name name loc name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+68,train_68,name name giám_đốc_điều_hành name từ_nhiệm,0
+69,train_69,name name liên_tục giảm cổ_phiếu đã phá đáy tháng date,0
+70,train_70,những doanh_nghiệp lãi bùng_nổ ngay trong date,2
+71,train_71,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+72,train_72,huỷ đăng_ký công_ty đại_chúng ô_tô name name name sẽ không còn công_khai các số_liệu tài_chính,0
+73,train_73,name name đến lượt name muốn thoái vốn khỏi name,0
+74,train_74,khối ngoại_tiếp tục bán ròng gần number tỷ đồng trong phiên date,0
+75,train_75,bứt_phá mạnh trong date đà tăng_trưởng của name liệu còn tiếp_diễn ?,1
+76,train_76,name name khoản phải tạm nộp number tỷ đồng truy_thu thuế vẫn đang đánh_giá và sẽ điều_chỉnh khi có quyết_định sau_cùng,1
+77,train_77,giải_pháp tiết_kiệm chi_phí tối_ưu cho nhà_đầu_tư giao_dịch chứng_khoán chủ_động,1
+78,train_78,name lực điều_chỉnh gia_tăng name name về sát mốc number điểm,0
+79,train_79,name và name đầu_tư number triệu name vào name name của name định_giá number tỷ name,2
+80,train_80,loạt cổ_phiếu tăng mạnh có những cổ_phiếu tăng gấp number lần chỉ trong vòng number tháng,2
+81,train_81,name giảm mạnh name name vẫn quyết đăng_ký bán hết gần number triệu cổ_phiếu,0
+82,train_82,name name tiếp_tục thông_qua việc huy_động thêm number tỷ trái_phiếu trong date,0
+83,train_83,name su name name name đưa gần number triệu cổ_phiếu quỹ ra bán,0
+84,train_84,name chốt danh_sách cổ_đông phát_hành number triệu cổ_phiếu trả cổ_tức,2
+85,train_85,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+86,train_86,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+87,train_87,lãnh_đạo đẩy_mạnh gom cổ_phiếu name name lên đỉnh lịch_sử,2
+88,train_88,thị_trường sôi_động công_ty chứng_khoán đẩy_mạnh huy_động hàng nghìn tỷ đồng từ trái_phiếu để đáp_ứng nhu_cầu giới đầu_tư,2
+89,train_89,name name name name name name name name name name tin giao_dịch lượng lớn cổ_phiếu,1
+90,train_90,name name nâng room ngoại lên percent,2
+91,train_91,name quyết_định dùng hơn number triệu cổ_phiếu quỹ chia thưởng cho cổ_đông,2
+92,train_92,khối ngoại_tiếp tục bán ròng gần number tỷ đồng trong phiên date,0
+93,train_93,name bì name name name name chốt quyền trả cổ_tức bằng tiền tỷ_lệ percent,2
+94,train_94,name lùi về dưới number điểm nhiều cổ_phiếu chịu áp_lực bán mạnh,0
+95,train_95,một cổ_phiếu ngành thép đã tăng trần number phiên liên_tiếp gấp number lần trong vòng number tháng,2
+96,train_96,cổ_phiếu vaccine duy_nhất trên sàn chứng_khoán đột_ngột tăng gấp number lần trong number tháng,2
+97,train_97,name chốt quyền trả cổ_tức date name đình ông name chuẩn_bị nhận number tỷ đồng_tiền_mặt và hơn number triệu cổ_phiếu name,2
+98,train_98,loc name chốt danh_sách cổ_đông trả cổ_tức tỷ_lệ percent,2
+99,train_99,name lên kế_hoạch huy_động number tỷ đồng trái_phiếu,0
+100,train_100,cổ_phiếu bóng_đèn name name name bứt_phá lên number đồng cao nhất sàn chứng_khoán sau thông_tin đầu_tư vào nhà_máy công_nghệ_cao tại name name,2
+101,train_101,name name và name name sẽ thêm mới name và name trong kỳ cơ_cấu date ?,1
+102,train_102,name biên lãi doanh_nghiệp thép nửa cuối năm sẽ giảm mạnh từ mức rất cao riêng name name vẫn hưởng lợi từ tăng_trưởng ngành xây_dựng,1
+103,train_103,xuất_hiện môi_giới số name phục_vụ nđt date,1
+104,train_104,chứng_khoán tuần number date câu_chuyện lạm_phát dần ấm lên triển_vọng cổ_phiếu thép vẫn tích_cực,1
+105,train_105,name name trả cổ_tức bằng tiền tỷ_lệ percent sẽ chào_bán hơn number triệu cổ_phiếu tăng vốn_điều_lệ,2
+106,train_106,đhđcđ name name nhận nhiều dự_án name nhưng các dự_án điện gió chưa sẵn_sàng phát_điện trước datedate,1
+107,train_107,chăn_nuôi loc name trả cổ_tức đợt date bằng tiền tỷ_lệ percent,2
+108,train_108,number cổ_phiếu tăng / giảm mạnh nhất tuần có mã lên gấp đôi,1
+109,train_109,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+110,train_110,tiêu_điểm xử_phạt tuần qua rất nhiều cá_nhân bị name phạt,0
+111,train_111,name name name name name name name name name name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+112,train_112,name name name name nếu một ngày nào đó chính_sách name không được thông_qua thì hiệu_quả kinh_doanh của công_ty đó có vấn_đề,0
+113,train_113,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+114,train_114,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ date date,2
+115,train_115,name đặt mục lãi sau thuế number tỷ đồng chia cổ_tức date tỷ_lệ percent,2
+116,train_116,khối ngoại bán ròng kỷ_lục hơn number tỷ đồng từ đầu năm vượt xa lượng bán ròng trong cả date,0
+117,train_117,đầu_tư cổ_phiếu dài_hạn nói dễ làm_khó !,1
+118,train_118,name tăng percent kể từ đầu năm một lãnh_đạo địa_ốc name vừa bán ra number triệu cổ_phiếu,0
+119,train_119,name liên_tục phá đỉnh tài_sản của con trai name name vượt xa name name,2
+120,train_120,name tiếp_tục giảm sở_hữu name trong bối_cảnh cổ_phiếu lao dốc,0
+121,train_121,name number name thông_qua phương_án phát_hành hơn number triệu cổ_phiếu tăng vốn,2
+122,train_122,nhiều tiền cổ_phiếu dễ bị làm_giá ?,1
+123,train_123,name name sẽ phát_hành gần number tỷ cổ_phiếu margin có_thể tăng hàng tỷ name,2
+124,train_124,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+125,train_125,name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+126,train_126,name name doanh_thu đột_biến nhờ bàn_giao dự_án lãi_ròng vẫn giảm mạnh percent trong quý date,0
+127,train_127,name ngành phân_bón date giá phân_bón tăng cao giúp các doanh_nghiệp lãi lớn,2
+128,train_128,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+129,train_129,name name name đạt number tỷ doanh_thu sau date thực_hiện percent chỉ_tiêu date,2
+130,train_130,yếu_tố nào giúp cổ_phiếu công_ty chứng_khoán đồng_loạt lên đỉnh ?,1
+131,train_131,name name đạt doanh_thu hơn number tỷ đồng trong date đầu năm,2
+132,train_132,name chính_thức đưa name vào rổ name,1
+133,train_133,thương_vụ uỷ_thác của name cho name name name name name đóng vai_trò gì ?,1
+134,train_134,khối ngoại bán ròng gần number tỷ đồng trong phiên date,0
+135,train_135,name name muốn huy_động number tỷ name cho mảng thức_ăn chăn_nuôi,2
+136,train_136,name name name name hưởng khối ngoại trên name loc không còn lớn chỉ còn chiếm khoảng percent quy_mô thị_trường,2
+137,train_137,xây_dựng name name name name loc00 tỷ lập trung_tâm đổi_mới sáng_tạo numbera tại khu công_nghệ_cao loc loc,2
+138,train_138,name name chốt danh_sách cổ_đông trả cổ_tức bằng tiền tỷ_lệ percent,2
+139,train_139,cổ_phiếu thép hạ nhiệt name name đảo chiều giảm hơn number điểm,0
+140,train_140,nông_sản thực_phẩm name name name trả tiếp cổ_tức đợt number bằng tiền tỷ_lệ percent,2
+141,train_141,name giảm mạnh lãnh_đạo name măng name name number vẫn muốn bán bớt number triệu cổ_phiếu,0
+142,train_142,name name cổ_phiếu lên cao nhất mọi thời_kỳ number name name liền bán ra phần_lớn cổ_phần ngay đỉnh,0
+143,train_143,điều gì khiến cổ_phiếu bất_động_sản dậy sóng ?,1
+144,train_144,doanh_nghiệp ngành bao_bì đang ăn_nên_làm_ra,2
+145,train_145,name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+146,train_146,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+147,train_147,name su name name name dự_chi gần number tỷ đồng chi_trả cổ_tức còn lại date,2
+148,train_148,name name date đã suýt_soát kế_hoạch lãi cả năm với number tỷ đồng cổ_phiếu tăng cao gấp number lần từ đầu năm,2
+149,train_149,name và number cổ_phiếu khác vào rổ name name name name name,2
+150,train_150,bất_động_sản khu công_nghiệp – lá bài chưa lật của tập_đoàn name,2
+151,train_151,sàn đầu_tư tiền ' ảo ' siêu lãi không có bữa trưa nào miễn_phí,1
+152,train_152,thị_trường_chứng_khoán tăng mạnh đưa giá cổ_phiếu lên cao nhiều doanh_nghiệp name name name name … tranh_thủ phát_hành huy_động hàng ngàn tỷ đồng_vốn trên sàn,2
+153,train_153,name siêu chu_kỳ hàng_hoá đang đến ?,1
+154,train_154,chứng_khoán name điều_chỉnh room ngoại về percent,0
+155,train_155,name name name name dùng chung hashtag nghi_vấn name trá_hình cho sàn name trái_phép từng bị công_an cảnh_báo đa_cấp biến_tướng,1
+156,train_156,name giảm mạnh name name đốc nông_nghiệp công_nghệ_cao name name vẫn đăng_ký bán hết hơn number triệu cổ_phiếu,0
+157,train_157,chứng_khoán name name name chuẩn_bị tăng vốn_điều_lệ lên number tỷ đồng đáp_ứng nguồn cho hoạt_động margin và tự doanh,2
+158,train_158,name name name thanh_toán trước hạn number tỷ đồng nợ tại name,2
+159,train_159,name name ty name bán nợ đăng_ký bán number triệu cổ_phần name name name chốt lãi sau nửa năm đầu_tư,0
+160,train_160,bất_chấp thị_trường tăng điểm khối ngoại vẫn bán ròng gần number tỷ đồng trong phiên date,0
+161,train_161,name bứt_phá tăng number điểm nhà_đầu_tư vui_mừng khi thị_trường đảo chiều mạnh_mẽ,2
+162,train_162,hơn number tỷ cổ_phiếu sắp chào_bán trên thị_trường_chứng_khoán,2
+163,train_163,name chốt danh_sách cổ_đông trả cổ_tức đợt date bằng tiền tỷ_lệ percent,2
+164,train_164,name name canh_bạc hời hay ' cú lừa ' ?,1
+165,train_165,những cổ_phiếu tiềm_năng nhưng giới đầu_tư đang thờ_ơ,1
+166,train_166,cuộc đua gay_cấn đến lượt chứng_khoán name được chấp_thuận tăng vốn thêm hơn number tỷ đồng,2
+167,train_167,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+168,train_168,chỉ_số quan_trọng nhất của thị_trường cận biên name thêm mới name và name vào danh_mục trong kỳ review date,1
+169,train_169,name một đêm name lộ_liễu cho tiền ảo bài viết của name name name trên name đồng_loạt bốc_hơi ?,1
+170,train_170,name lợi_nhuận doanh_nghiệp date sẽ tăng mạnh hơn dự_báo định_giá chứng_khoán loc đang khá hấp_dẫn,2
+171,train_171,name name triển_vọng lợi_nhuận nhiệt_điện tiêu_cực trong date cung_cầu điện sẽ cân_bằng trong năm number,0
+172,train_172,nhà và đô_thị name name name name sẽ phát_hành cổ_phiếu thưởng tỷ_lệ percent,2
+173,train_173,câu_lạc_bộ lãi nghìn tỷ date đã gọi tên number doanh_nghiệp vị_trí quán_quân đã đổi chủ,1
+174,train_174,bắt sóng đầu_tư chứng_khoán cùng ứng_dụng trí_tuệ_nhân_tạo,1
+175,train_175,thanh khoản thị_trường bùng_nổ name tăng vốn khủng,2
+176,train_176,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+177,train_177,name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+178,train_178,name name name có_thể điều_chỉnh xuống dưới number điểm trong date nhóm cổ_phiếu name loại còn ít dư_địa tăng_trưởng,0
+179,train_179,name name kỳ_vọng lãi date tăng_trưởng hơn percent tăng vốn_điều_lệ lên number tỷ đồng,2
+180,train_180,quỹ đầu_tư do name quản_lý vừa bán ra number triệu cổ_phiếu name thu về hơn number tỷ đồng,2
+181,train_181,name sách_giáo_khoa name name name date lãi kỷ_lục number tỷ đồng,2
+182,train_182,khối ngoại bán ròng gần number tỷ đồng name name đảo chiều giảm điểm trong phiên date,0
+183,train_183,đhcđ name name bất_ngờ với phương_án name phát_hành percent cổ_phiếu ưu_đãi cho đối_tác công_ty,2
+184,train_184,name chính_thức bán ra number triệu cổ_phiếu quỹ,0
+185,train_185,name lớn từ tiền ảo ca_sĩ name quyết_định trích một phần lợi_nhuận làm từ_thiện,1
+186,train_186,cổ_phiếu ngân_hàng thép đồng_loạt điều_chỉnh name name đảo chiều giảm gần number điểm,0
+187,train_187,bất_chấp thảm_kịch name chứng_khoán loc vẫn tăng bền_bỉ,1
+188,train_188,name cổ_phiếu ngân_hàng name và name đủ điều_kiện được cấp margin,2
+189,train_189,cổ_phiếu duỳ trì mức giá number chữ_số dệt_may name name sắp phát_hành hơn number triệu cổ_phiếu thưởng,2
+190,train_190,nhà_đầu_tư lãi bao_nhiêu nếu rót number name mua tiền ảo name vào đầu năm nay ?,1
+191,train_191,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+192,train_192,name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+193,train_193,name ngành thép vẫn tăng_trưởng sang quý date khi đơn hàng đã ‘ full ’ đến giữa date name và name tăng mạnh thị_phần thép xây_dựng,2
+194,train_194,name có gì mới trong date ?,1
+195,train_195,number lý_do chứng_minh cổ_phiếu ngân_hàng xứng_đáng vai_trò dẫn sóng thị_trường,2
+196,train_196,dòng vốn từ loc chiếm gần một_nửa quy_mô danh_mục name name,1
+197,train_197,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+198,train_198,tài_chính name name đăng_ký bán gần number triệu cổ_phiếu quỹ,0
+199,train_199,name name name nhóm name tiếp_tục bán ra hơn number triệu cổ_phần hạ tỷ_trọng xuống mức percent,0
+200,train_200,tài_khoản chứng_khoán tăng đột_biến là cơ_sở để nhà_đầu_tư loc quay lại loc ?,1
+201,train_201,name name sắp phát_hành number triệu cổ_phần trả cổ_tức date tỷ_lệ percent,2
+202,train_202,bị phạt thuế gần number tỷ lỗ sau kiểm_toán của name name name name tăng vọt từ number tỷ lên number tỷ đồng,0
+203,train_203,khối ngoại trở_lại mua ròng name name áp sát mốc number điểm trong phiên đầu tuần,2
+204,train_204,hàng_loạt cổ_phiếu bứt_phá name tăng vọt number điểm phiên đầu tuần,2
+205,train_205,nhà_đầu_tư trong nước tiếp_tục mở mới hơn number tài_khoản chứng_khoán trong date,2
+206,train_206,name name thông_qua phương_án bán tiếp number triệu cổ_phiếu quỹ,0
+207,train_207,chứng_khoán name name name chuẩn_bị phát_hành trái_phiếu huy_động number tỷ đồng,2
+208,train_208,name chuẩn_bị tăng vốn thêm hơn number tỷ bổ_sung nguồn_lực cho hoạt_động margin,2
+209,train_209,cổ_phiếu thép tiếp_tục tăng_tốc name name lên vùng giá mới nkg thậm_chí kịch trần,2
+210,train_210,name trình_làng phiên_bản mới tích_hợp công_cụ nhà_đầu_tư cần chỉ trong number ứng_dụng,1
+211,train_211,tăng percent trong vài phút sáng đầu tuần giá quặng sắt tiếp_tục nóng_bỏng,2
+212,train_212,tiết_kiệm chi_phí ngành dệt_may nỗ_lực vượt khó trong date,2
+213,train_213,name muốn chào_bán number triệu cổ_phiếu đầu_tư nhà_máy chế_biến gạo và nông_sản đông_lạnh,1
+214,train_214,hành_trình chinh_phục nhà_đầu_tư của chứng_khoán name,1
+215,train_215,name name date tiếp_tục name các dự_án tiềm_năng trình kế_hoạch lợi_nhuận tăng percent lên number tỷ đồng,2
+216,train_216,name name name name có_thể lên gần number điểm điều_chỉnh là cơ_hội gia_tăng tỷ_trọng cổ_phiếu,2
+217,train_217,name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+218,train_218,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ date date,2
+219,train_219,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+220,train_220,name thế dòng tiền có nên đu cổ_phiếu ngân_hàng ?,1
+221,train_221,thế_giới name động name doanh_số tăng_trưởng percent trở_lại sau mùa thấp_điểm date gia_tăng mạnh hàng tồn điện_tử,2
+222,train_222,date name lãi number tỷ đồng tăng percent so với cùng kỳ nhờ hoạt_động liên_kết,2
+223,train_223,ngành thuỷ_sản và dệt_may phục_hồi xuất_khẩu nhờ bước_tiến vaccine name,1
+224,train_224,[ quy_tắc đầu_tư vàng ] ngôi_sao đang lên loc với khối tài_sản quản_lý tăng từ number tỷ name lên number tỷ name chỉ trong vòng date bật_mí bí_quyết hái_ra_tiền,2
+225,train_225,name ngành name bưu_chính viễn_thông hưởng lợi từ number và chuyển_đổi số,2
+226,train_226,name hơn number thập_kỷ thương_hiệu vang bóng một thời name đã không còn cháy sáng,0
+227,train_227,xây_dựng name name name năm đầu chuyển_giao sang thế_hệ name dự trình kế_hoạch lợi_nhuận khá tham_vọng với number tỷ đồng cao gấp number lần date,2
+228,train_228,name name ngưng giải_ngân khối ngoại quay đầu bán ròng gần number tỷ đồng trong tuần giao_dịch đầu date,0
+229,train_229,date phục_hồi rực_rỡ lợi_nhuận các công_ty niêm_yết tăng_trưởng hơn percent so với cùng kỳ date,2
+230,train_230,name name name công_bố kết_quả kinh_doanh khả_quan quý date,2
+231,train_231,name name name duy_trì đà tăng trung_hạn kết_thúc date trên ngưỡng number điểm,2
+232,train_232,lỗ thêm number tỷ đồng name lắp dầu_khí name nâng lỗ luỹ kế lên gần number tỷ đồng,0
+233,train_233,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+234,train_234,phát_triển nhà loc loc loc name sắp chia cổ_tức date bằng cổ_phiếu tỷ_lệ percent,2
+235,train_235,doanh_nghiệp vàng_mã duy_nhất trên sàn quý đầu date báo lãi gấp đôi cùng kỳ cổ_phiếu tăng gấp rưỡi từ đầu năm,2
+236,train_236,không nắm giữ name và name hiệu_suất danh_mục name name name thua xa name name trong date,0
+237,train_237,name cao như núi chứng_khoán không lo gãy ?,1
+238,train_238,chứng_khoán name nhận khoản vay hợp vốn number triệu name từ nhóm các định_chế tài_chính loc,1
+239,train_239,phiên date khối ngoại_tiếp tục bán ròng gần number tỷ đồng tập_trung bán name name,0
+240,train_240,name giảm number điểm phiên cuối tuần name name name bứt_phá,0
+241,train_241,‘ giá_trị giao_dịch name name name gần ngang_ngửa loc trội hơn hẳn loc nđt nước_ngoài khó mà làm_ngơ thị_trường này lâu hơn_nữa ! ’,2
+242,train_242,name chỉ bán ra hơn number triệu cổ_phiếu name name bằng một_nửa số_lượng đăng_ký bán,0
+243,train_243,name name vừa chi hơn number tỷ mua number triệu cổ_phiếu name name name,2
+244,train_244,name name date có lãi hơn number tỷ đồng nhờ tiết_kiệm chi_phí,2
+245,train_245,name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+246,train_246,những con_số nổi_bật của thị_trường_chứng_khoán loc date,2
+247,train_247,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+248,train_248,chiến_lược đầu_tư cổ_phiếu nào thích_hợp trong date ?,1
+249,train_249,một doanh_nghiệp sắp trả cổ_tức bằng tiền gấp number lần thị_giá,2
+250,train_250,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+251,train_251,nhân_viên name sắp nhận số cổ_phiếu trị_giá number tỷ đồng với giá mua chỉ bằng date,2
+252,train_252,name name tháng date khối ngoại giảm bán ròng mạnh đã chuyển number mã cổ_phiếu sang name,2
+253,train_253,khối ngoại bán ròng hơn number tỷ đồng tập_trung xả name trong phiên date,0
+254,train_254,name name date tăng percent lên number tỷ đồng,2
+255,train_255,name name name vẫn trong tầm kiểm_soát đây là thời_điểm tốt để tích_luỹ cổ_phiếu,2
+256,train_256,lượng hàng_hoá qua cảng tăng loc loc name báo lãi tăng percent lên number tỷ đồng trong date,2
+257,train_257,name thép name name name báo lãi date hơn number tỷ đồng hoàn_thành percent kế_hoạch cả date,2
+258,train_258,lãi lớn gấp number lần cùng kỳ nhờ chuyển_nhượng bất_động_sản một doanh_nghiệp ngành nước môi_trường sắp trả cổ_tức tỷ_lệ gần percent,2
+259,train_259,nhà_đầu_tư name dễ sập bẫy room phím hàng,0
+260,train_260,name name khiến các loại tài_sản như vàng hay cổ_phiếu trở_nên lỗi_thời,1
+261,train_261,name name name dẫn_dắt name name có_thể lên sát mốc number điểm trong date ?,2
+262,train_262,quỹ number tỷ name của name tăng mạnh tỷ_trọng name và name vào cuối date,2
+263,train_263,name lực bán tăng mạnh name name giữ được mốc number điểm nhờ lực đỡ từ cổ_phiếu ngân_hàng thép,2
+264,train_264,name tăng mạnh chủ_tịch hđqt name name vẫn chi hơn number tỷ đồng mua gần number triệu cổ_phiếu,2
+265,train_265,chủ_tịch hđqt name name đăng_ký mua number triệu cổ_phiếu name,2
+266,train_266,nhiều cổ_phiếu trong rổ tăng nóng quy_mô của name ngân_hàng name name vượt number triệu name,2
+267,train_267,name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+268,train_268,đầu_tư cổ_phiếu name hay name,1
+269,train_269,không còn khoản lãi thoái vốn đầu_tư name báo lỗ number tỷ đồng trong quý date,0
+270,train_270,chứng_khoán name name name có_thể hướng về ngưỡng number điểm trong date,0
+271,train_271,name là công_ty gì sau khi bán name cho name ?,1
+272,train_272,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+273,train_273,name ngành khu công_nghiệp date nhiều doanh_nghiệp lãi lớn quán_quân thuộc về công_ty lãi gấp number lần cùng kỳ,2
+274,train_274,name name bứt_phá name chốt phiên tăng number điểm,2
+275,train_275,name name quý date lỗ ròng number tỷ đồng_vốn chủ đang âm number tỷ,0
+276,train_276,name name name name báo lãi number tỷ đồng trong date giảm percent so với cùng kỳ,0
+277,train_277,name name lên_tiếng về quyết_định khởi_tố vụ án hình_sự xảy ra tại công_ty,1
+278,train_278,name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+279,train_279,kết_quả kinh_doanh ngành thuỷ_điện date nhiều doanh_nghiệp lãi gấp number number lần cùng kỳ quán_quân thuộc về doanh_nghiệp lãi gấp number lần,2
+280,train_280,name name name name đấu giá_thành_công number triệu cổ_phiếu thu về gần number tỷ đồng,2
+281,train_281,name name kỳ_vọng lợi_nhuận tăng đột_biến,1
+282,train_282,ngày làm bảo_vệ tối nghiên_cứu chứng_khoán người đàn_ông trở_thành triệu_phú sở_hữu number triệu name nhưng người_nhà không hề biết,1
+283,train_283,name name chưa có kế_hoạch tiếp_tục nâng lô giao_dịch name đang gấp_rút khắc_phục sự_cố nghẽn lệnh,1
+284,train_284,name báo lãi number tỷ đồng trong quý date vẫn còn hơn number tỷ đồng đi gửi ngân_hàng,2
+285,train_285,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+286,train_286,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+287,train_287,name name tuýt còi các công_ty chứng_khoán biến_tướng huy_động vốn từ khách_hàng,0
+288,train_288,name name date lãi number tỷ đồng gấp hơn number lần cùng kỳ,2
+289,train_289,name name name tiếp_tục bán thảo thuận number triệu cổ_phần tại namel name dự_thu hàng trăm tỷ nhằm tái cấu_trúc nợ ngân_hàng,2
+290,train_290,đầu_tư name name name bất_ngờ báo lãi date gấp number lần cùng kỳ,2
+291,train_291,name name name quý date thực_hiện date kế_hoạch lãi cả năm với number tỷ đồng bắt_đầu tham_gia bán đồng_hồ thương_hiệu name,2
+292,train_292,thị_trường rung lắc mạnh khối ngoại bán ròng number tỷ đồng trong phiên date,0
+293,train_293,name name tăng mạnh_mẽ name tăng trong phiên giao_dịch đầu_tiên của date,2
+294,train_294,doanh_nghiệp kinh_doanh kềm duy_nhất trên sàn sắp trả cổ_tức gấp đôi thị_giá,2
+295,train_295,đại_hội cổ_đông name thông_qua kế_hoạch kinh_doanh tăng_trưởng doanh_thu nghìn tỷ,2
+296,train_296,name nhà_đầu_tư cá_nhân đang gồng_gánh đà tăng tốt nhất loc của chứng_khoán loc khi nào khối ngoại mới quay trở_lại ?,1
+297,train_297,quỹ từ_thiện của name và vợ là một trong hai cổ_đông lớn nhất của name quỹ đầu_tư quản_lý number tỷ name cổ_phiếu loc,2
+298,train_298,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ date date,2
+299,train_299,name name date lãi kỷ_lục number tỷ đồng,2
+300,train_300,name name name báo lãi date tăng gấp number lần cùng kỳ nhờ nguồn thu tài_chính,2
+301,train_301,name name name date lãi sau thuế đạt number tỷ đồng tăng percent so với cùng kỳ,2
+302,train_302,tiêu_điểm xử_phạt tuần qua loạt cá_nhân và doanh_nghiệp bị name phạt nặng,0
+303,train_303,name name date lãi number tỷ đồng cao gấp number lần cùng kỳ,2
+304,train_304,name name name date tăng percent lên number tỷ đồng lãi kinh_doanh chứng_khoán tăng mạnh,2
+305,train_305,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+306,train_306,name name lợi_nhuận quý date giảm mạnh percent xuống còn number tỷ đồng,0
+307,train_307,hơn number tỷ đồng đổ vào name loc ngay trước kỳ nghỉ lễ thông_qua number quỹ name,2
+308,train_308,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+309,train_309,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+310,train_310,name name name bán đi đứa con nông_nghiệp quy_mô tài_sản giảm phân_nửa doanh_thu cũng chỉ bằng ¼ cùng kỳ với number tỷ đồng,0
+311,train_311,name name date lãi_ròng number tỷ đồng – cao nhất trong lịch_sử niêm_yết,2
+312,train_312,mạnh_tay chi quảng_cáo khuyến_mại lợi_nhuận date của name name phục_hồi mạnh lên number tỷ đồng,2
+313,train_313,name gửi lời khuyên đặc_biệt đến các nhà_đầu_tư mới,1
+314,train_314,mã chứng_khoán liên_quan tới name tăng number lần trong vòng number tháng,2
+315,train_315,name name báo lãi date hơn number tỷ hoàn_thành gần percent kế_hoạch date,2
+316,train_316,name báo lãi date gấp đôi cùng kỳ lên number tỷ đồng,2
+317,train_317,cơ_hội đầu_tư cổ_phiếu từ cuộc đua tăng vốn của các công_ty chứng_khoán,2
+318,train_318,name rủi_ro name in name gia_tăng name name có_thể về dưới number điểm trong date,0
+319,train_319,doanh_thu tăng cao date name lãi_ròng gần number tỷ đồng,2
+320,train_320,name name name đạt lợi_nhuận kỷ_lục trong quý date với number tỷ đồng cao gấp number lần cùng kỳ,2
+321,train_321,name number name name nhận chênh_lệch tỷ_giá lãi_ròng quý date đột_biến lên number tỷ đồng,2
+322,train_322,ngành thép date lợi_nhuận tăng hàng chục lần so với cùng kỳ quán_quân tăng_trưởng thuộc về doanh_nghiệp có lãi gấp number lần,2
+323,train_323,bất_chấp áp_lực cạnh_tranh huyền_thoại name vẫn đứng vững sau number thập_kỷ mỗi năm báo lãi hàng chục tỷ đồng,2
+324,train_324,đường_sắt loc và loc tiếp_tục lỗ trong date,0
+325,train_325,name nhận number tỷ đồng lợi_nhuận từ chuyển_nhượng nhà_máy xi_măng name name báo lãi date gấp number lần cùng kỳ,2
+326,train_326,khoáng_sản name date lãi number tỷ đồng cao gấp number lần cùng kỳ date,2
+327,train_327,name name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+328,train_328,nhiệt_điện name name name tạm_ứng tiếp cổ_tức đợt number bằng tiền tỷ_lệ gần percent,0
+329,train_329,name name name doanh_thu giảm phân_nửa xuống number tỷ sau quý đầu_tiên do name cầm lái date thực_hiện percent chỉ_tiêu cả date,0
+330,train_330,sức nóng của việc lấy bằng lái_xe đẩy giá cổ_phiếu của doanh_nghiệp sát_hạch lái_xe duy_nhất trên sàn chứng_khoán,1
+331,train_331,doanh_thu hơn number tỷ name của name trong quý đầu năm đến từ những gì ?,1
+332,train_332,đhđcđ loc number name name date dự trả hết nợ nước_ngoài đến năm number khấu_hao xong thì dòng tiền sẽ mạnh,1
+333,train_333,name đã thoái hết vốn tại name lợi_nhuận ròng date tăng gần percent,2
+334,train_334,name name name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+335,train_335,name name doanh_thu đi ngang lãi date hơn number tỷ đồng,2
+336,train_336,khối ngoại chấm_dứt chuỗi date bán ròng liên_tiếp trên name giao_dịch thoả_thuận đột_biến,2
+337,train_337,name name date lãi number tỷ đồng – cao nhất trong vòng date qua,2
+338,train_338,name doanh dưới giá_vốn khiến date name name name lỗ number tỷ đồng,0
+339,train_339,cơ_điện lạnh name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+340,train_340,name name báo date lãi number tỷ đồng tăng gần gấp đôi cùng kỳ date,2
+341,train_341,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+342,train_342,đhđcđ name kế_hoạch name tăng percent lên number tỷ đồng date nhận thêm cơ_hội từ hãng name khi miếng bánh kênh chính_ngạch tăng mạnh,2
+343,train_343,ông name ' khoe ' là khách_hàng đầu_tiên của quỹ hưu_trí do name triển_khai,1
+344,train_344,lỗ thêm number tỷ trong date tổng lỗ luỹ kế của name đã lên hơn number tỷ nguy_cơ âm vốn cận_kề,0
+345,train_345,loc name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+346,train_346,thị_trường tăng điểm khối ngoại quay đầu bán ròng gần number tỷ đồng trong phiên date,0
+347,train_347,name name doanh_thu quý date tăng hơn percent lên gần number tỷ đồng,2
+348,train_348,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+349,train_349,cơ_điện lạnh name báo lãi date tăng percent lên number tỷ đồng,2
+350,train_350,name name name giá thép tăng gấp đôi đã và đang tác_động đến ngành xây_lắp sẽ mua trước trữ_lượng khoảng percent giá_trị hợp_đồng,2
+351,train_351,bị tag hẳn tên vào bài đăng tố ' làm_giá ' name âm_thầm mua đáy bán đỉnh thao_túng thị_trường name đáp trả number câu hút gần number lượt thích,1
+352,train_352,ngành dệt_may phục_hồi date name lãi number tỷ đồng tăng percent so với cùng kỳ,2
+353,train_353,giá dầu name tăng cao giúp name lãi number tỷ đồng trong date,2
+354,train_354,nhờ thị_trường thép tiếp_tục đà tăng_giá name name báo lợi_nhuận date tăng gấp gần number lần cùng kỳ date,2
+355,train_355,đại_hội cổ_đông name lần number diễn ra bất_thành chỉ có hơn percent cổ_phần có quyền biểu_quyết tham_dự,1
+356,train_356,dịch covid – number được kiểm_soát bút_bi name báo lãi tăng mạnh so với quý date,2
+357,train_357,cổ_phiếu ngân_hàng bứt_phá mạnh trong ngày name cơ_cấu danh_mục name name áp sát mốc number điểm,2
+358,train_358,name lực giá_vốn khiến name name báo lãi number tỷ đồng thấp nhất trong vòng date qua,0
+359,train_359,name đặt mục_tiêu number tỷ đồng name dự_kiến phát_hành tối_đa number triệu cổ_phiếu tăng vốn lên number tỷ đồng,2
+360,train_360,name name name name loc name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+361,train_361,loc loc name mảng đường cải_thiện lãi_ròng quý date tăng percent lên number tỷ đồng,2
+362,train_362,đhđcđ name số number name name cổ_tức percent và tăng vốn lên gấp đôi ngay trong date,2
+363,train_363,name trò của name name tại name,1
+364,train_364,đhđcđ name name name mục_tiêu number tỷ lợi_nhuận cổ_tức percent,2
+365,train_365,name name đặt mục_tiêu lãi sau thuế number tỷ đồng date,2
+366,train_366,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+367,train_367,name đã bán xong gần number triệu cổ_phiếu quỹ thu về number tỷ đồng,2
+368,train_368,name name được định_giá number tỷ name khi bán cho name,2
+369,train_369,name name đặt kế_hoạch lợi_nhuận tăng percent date,2
+370,train_370,name name giá phân_bón tăng mạnh lợi_nhuận date tăng percent so với cùng kỳ date,2
+371,train_371,name tổ_chức đại_hội_đồng cổ_đông thường_niên date,1
+372,train_372,phiên date khối ngoại_tiếp tục mua ròng gần number tỷ đồng tập_trung gom name,2
+373,train_373,tăng number điểm cuối phiên name chinh_phục lại mốc number điểm,2
+374,train_374,đhđcđ name name các hoạt_động cạnh_tranh không lành_mạnh hiện đã được đối_thủ dừng lại !,1
+375,train_375,name name name name chốt danh_sách cổ_đông trả cổ_tức tỷ_lệ percent bằng tiền,2
+376,train_376,phân_bón name name name báo lãi quý date tăng cao gấp number lần cùng kỳ date,2
+377,train_377,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+378,train_378,phát_triển điện_lực name name name date lãi number tỷ đồng tăng mạnh so với cùng kỳ,2
+379,train_379,name name name date lãi number tỷ đồng gấp gần number lần cùng kỳ,2
+380,train_380,dù là quý hoạt_động thấp_điểm name name vẫn báo lãi tăng percent so với cùng kỳ,2
+381,train_381,name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+382,train_382,đhcđ name name name đã trình chính_phủ kế_hoạch thoái vốn ước lãi date đạt number tỷ đồng,2
+383,train_383,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+384,train_384,name name name name bà name đổi hoàn_toàn sang_tên mới name hứa_hẹn liên_doanh tại loc sẽ chắp_cánh cho công_ty,1
+385,train_385,đhđcđ name name name name sẵn_sàng khai_thác chuyến bay quốc_tế từ quý date lợi_nhuận dự_kiến tăng lên number tỷ đồng,2
+386,train_386,ông name tôi đã rót number tỷ trước cho đợt chào_bán number triệu cổ_phần sắp tới mong cổ_đông đi theo tôi vì name sẽ sớm về mệnh_giá !,1
+387,train_387,một cổ_phiếu ngành thép bất_ngờ tăng percent sau number phiên tăng trần liên_tiếp,2
+388,train_388,tiếp_tục tăng_trưởng lợi_nhuận date name các name đã có sự thay_đổi,2
+389,train_389,name name lên kế_hoạch date liên_tiếp chia cổ_tức từ percent trở lên đặt mục_tiêu lãi number tỷ đồng trong date,2
+390,train_390,sếp name đánh_giá cao cổ_phiếu ngân_hàng dự_báo name name cán mốc number điểm trong date,2
+391,train_391,quỹ liên_quan tới name chuẩn_bị rót hơn number tỷ đồng vào name name name thông_qua quỹ name,2
+392,train_392,chủ_tịch name ' khoe ' lỗ number tỷ đồng khi đầu_tư chứng_khoán,0
+393,train_393,name lãi_ròng number tỷ đồng trong date tăng percent,2
+394,train_394,ngành vận_tải_biển sôi_động name báo lợi_nhuận quý date tăng percent so với cùng kỳ,2
+395,train_395,name name công_nghiệp bứt_phá mạnh lợi_nhuận date name tăng percent so với cùng kỳ date,2
+396,train_396,nghịch_lý người già phải đứng cho người trẻ ngồi trên tàu_điện_ngầm và date hình_thành quỹ hưu_trí tại loc,1
+397,train_397,chính_thức ra_mắt quỹ hưu_trí name hoàn_thiện mảnh ghép về hệ_thống an_sinh xã_hội kích_thích đầu_tư cho tuổi già từ các ưu_đãi thuế,2
+398,train_398,kết_quả name name name name name công vượt mong_đợi,2
+399,train_399,phiên date thị_trường rung lắc mạnh khối ngoại_tiếp tục gom hơn number tỷ đồng cổ_phiếu,2
+400,train_400,name name tăng mạnh name quay đầu tăng number điểm,2
+401,train_401,đhcđ name name tự_tin cạnh_tranh mảng cho vay margin với các name ngoại đặt kế_hoạch lãi number tỷ đồng trong date,2
+402,train_402,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+403,train_403,chủ_tịch name chúng_tôi không thâu_tóm công_ty vẫn rất loc từ tên gọi đến con_người,1
+404,train_404,thuỷ_điện name name name name nhận doanh_thu từ nhà_máy điện mặt_trời name date gấp đôi cùng kỳ,2
+405,train_405,thị_giá giảm percent trong vòng nửa tháng thành_viên name name name vẫn đăng_ký bán number triệu cổ_phiếu name,0
+406,train_406,name name kế_hoạch tăng gấp đôi name lên number tỷ đồng phát_hành hơn number triệu cổ_phiếu huy_động vốn trong date,2
+407,train_407,đhcđ name đặt kế_hoạch lãi number tỷ đồng name name có_thể thoái hết vốn vào năm number,1
+408,train_408,đhđcđ name kế_hoạch huy_động vốn hàng nghìn tỷ đồng trong date sẽ tăng lại sở_hữu tại dự_án loc,2
+409,train_409,name name name date lỗ number tỷ đồng,0
+410,train_410,name name chốt danh_sách cổ_đông trả cổ_tức bằng tiền tỷ_lệ percent,2
+411,train_411,name name name name name name name name name name tin giao_dịch lượng lớn cổ_phiếu,1
+412,train_412,chuỗi nhà_thuốc loc tiếp_tục tăng_trưởng percent trong quý date đã có date cửa_hàng phát_sinh doanh_thu,2
+413,train_413,cổ_phiếu nào hưởng lợi từ tiềm_năng tăng_trưởng ngành internet băng rộng cố_định tại loc ?,1
+414,train_414,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+415,train_415,name tuần sau khi nộp đơn_từ_chức chủ_tịch hđqt name name lại xin rút đơn,1
+416,train_416,name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+417,train_417,đhcđ name quý date ước lãi sau thuế number tỷ đồng tăng gần percent so với cùng kỳ date,2
+418,train_418,name sách_giáo_khoa name name name đặt kế_hoạch lãi date gấp gần number lần cùng kỳ,2
+419,train_419,hạ_tầng nước loc name quý thứ number liên_tiếp báo lỗ gần number tỷ đồng,0
+420,train_420,đhđcđ name name name name name và mở_rộng quỹ đất tại loc date dự_kiến lợi_nhuận đột_biến number tỷ đồng nhờ book dự_án loc loc và loc,2
+421,train_421,thị_trường giảm sâu khối ngoại trở_lại mua ròng hơn number tỷ trong phiên date,2
+422,train_422,hàng_loạt cổ_phiếu đo sàn name mất number điểm,0
+423,train_423,chiến_lược xuôi_chiều gió của name,1
+424,train_424,cổ_phiếu nhóm ngành nào sẽ cất_cánh ?,1
+425,train_425,vì đâu name liên_tục thanh_lý tài_sản vì lý_do thiếu tiền nhưng rót dễ number tỷ đồng cho quản_lý name ?,0
+426,train_426,name name date lãi number tỷ đồng gấp hơn number lần cùng kỳ date,2
+427,train_427,quỹ ngoại vừa trao tay number triệu cổ_phiếu name của tài_chính name name,2
+428,train_428,name name name name name đặt tham_vọng lớn với thị_trường name loc kế_hoạch lãi number tỷ đồng trong date,2
+429,train_429,[ đhđcđ name ] bà name kế_hoạch kinh_doanh thận_trọng vì tình_hình có nhiều bất_định,1
+430,train_430,quy_mô name name name name tăng lên number triệu name sau date tiến_hành name,2
+431,train_431,name name name lợi_nhuận date giảm hơn nửa xuống còn number tỷ đồng name tăng_giá không phải mối lo_ngại quan_trọng nhất,0
+432,train_432,name name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+433,train_433,name giấu quyền_sở_hữu thực_sự đối_với cổ_phiếu name name name name của loc bị phạt nặng,0
+434,train_434,name name thêm number đại_diện từ name ứng_cử vào hđqt kế_hoạch lãi trước thuế number tỷ đồng date,2
+435,train_435,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ number date,2
+436,train_436,cổ_phiếu ngành thép sắp đón thêm tân_binh name,1
+437,train_437,nhiệt_điện name name name lỗ tiếp number tỷ đồng date nâng tổng lỗ luỹ kế lên trên number tỷ đồng,0
+438,train_438,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+439,train_439,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+440,train_440,tỷ_phú name không ai làm thép mãi được doanh_thu sau_này number tỷ thì name name phải đa ngành trong đó có bất_động_sản,1
+441,train_441,name thế dòng tiền sóng kết_quả kinh_doanh còn không ?,1
+442,train_442,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+443,train_443,trần number phiên liên_tiếp sau khi công_bố lỗ lớn date thị_giá name vẫn bốc_hơi percent giá_trị so với lúc loc phát mua vào,0
+444,train_444,nhiệt_điện loc number nt2 date lãi number tỷ đồng giảm percent so với cùng kỳ,0
+445,train_445,name name sản_xuất điện mặt_trời có hiệu_quả lãi date tăng percent so với cùng kỳ date,2
+446,train_446,name name rơi vào trạng_thái tàu lượn nguyên_nhân do đâu ?,1
+447,train_447,name name name có_thể lên mốc number điểm trong date sau khi test lại vùng number điểm,2
+448,train_448,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+449,train_449,doanh_thu tăng mạnh lợi_nhuận name vẫn giảm percent trong quý date,0
+450,train_450,một doanh_nghiệp cung_cấp phụ_tùng cho name name lãi hàng chục tỷ mỗi năm,2
+451,train_451,name name name name triển_khai phương_án phát_hành hơn number triệu cổ_phiếu trả cổ_tức,2
+452,train_452,name name đèn name name name giải_pháp chiếu sáng là động_lực tăng_trưởng chính trong date kế_hoạch lợi_nhuận tăng percent lên number tỷ đồng,2
+453,train_453,name doanh một vốn bốn lời number công_ty hàng_không tại loc lập kỷ_lục lợi_nhuận mới bất_chấp name,2
+454,train_454,name name date lãi number tỷ đồng – cao nhất trong lịch_sử niêm_yết,2
+455,train_455,name name name gặp sự_cố khiến thuỷ_điện loc loc lỗ lớn trong date,0
+456,train_456,chủ_tịch name name sẽ không chia cổ_tức cho đến khi xoá sạch lỗ thặng_dư từ năm number cổ_đông vẫn sẽ hưởng lợi từ giá cổ_phiếu tăng,0
+457,train_457,name name name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+458,train_458,đhđcđ name đặt kế_hoạch lợi_nhuận tăng number lần lên number tỷ đồng date sẽ chuyển niêm_yết từ name sang sàn name,2
+459,train_459,name name name giá thép tăng mạnh thì chắc_chắn phải giảm công_ty đã chốt giá bán đến hết quý date và tăng quản_trị rủi_ro,0
+460,train_460,khối ngoại_tiếp tục rút ròng hơn number tỷ đồng trong tuần từ number date bán mạnh name name và name,0
+461,train_461,name chốt danh_sách cổ_đông phát_hành number triệu cổ_phiếu trả cổ_tức date,2
+462,train_462,hoá_chất name name name chốt danh_sách cổ_đông phát_hành hơn number triệu cổ_phiếu trả cổ_tức,2
+463,train_463,name name name name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+464,train_464,name name name name phát number triệu cổ_phiếu với giá không dưới number đồng / cp để mở_rộng quỹ đất mục_tiêu tăng_trưởng lãi thuần percent / năm giai_đoạn date number,2
+465,train_465,giá dầu tăng name name dầu name name name lãi number tỷ đồng trong date vượt percent kế_hoạch cả date,2
+466,train_466,name name name lãi sau thuế number tỷ đồng trong date tăng percent so với cùng kỳ,2
+467,train_467,các hiệp_định phát_huy tác_dụng date loc loc name lãi number tỷ đồng tăng_trưởng percent,2
+468,train_468,nhờ khoản thu từ cổ_tức nước loc name báo lãi quý date cao nhất kể từ khi thành_lập,2
+469,train_469,name name đang hợp_tác với number ngân_hàng tên_tuổi cùng number name ví điện_tử khác để làm dự_án name nếu hoàn_thành nợ name sẽ về name,1
+470,train_470,name name name name từ date lợi_nhuận dự tăng mạnh khi dòng vốn chốt lời từ chứng_khoán chuyển sang name sẽ họp bất_thường công_bố một đề_án lớn,2
+471,train_471,đhcđ name name đầu_tư number tỷ cho lĩnh_vực hạ_tầng cho thuê có_thể cán mốc doanh_thu number tỷ đồng trong date,2
+472,train_472,bảo_hiểm quân_đội đặt mục_tiêu lợi_nhuận tăng percent chốt chia cổ_tức percent,2
+473,train_473,ngân_hàng nào đang bơm vốn khủng cho number công_ty chứng_khoán margin lớn ?,1
+474,train_474,name tăng mạnh_mẽ number điểm cuối phiên name name name bứt_phá,2
+475,train_475,kênh đầu_tư ‘ nhẹ đầu ’ cho nhân_viên văn_phòng date,1
+476,train_476,name đã mua lại trước hạn toàn_bộ nợ xấu từ name,2
+477,train_477,name name name báo lãi sau thuế number tỷ đồng trong date tăng percent so với cùng kỳ,2
+478,train_478,đhcđ name đẩy_mạnh phát_triển name name name và name name đặt kế_hoạch lãi number tỷ đồng trong date,2
+479,train_479,name name date tăng percent doanh_thu ký mới thị_trường nước_ngoài đạt gần number tỷ đồng trong date,2
+480,train_480,thuỷ_điện name name name date lãi number tỷ đồng cao gấp hơn number lần cùng kỳ,2
+481,train_481,giá cổ_phiếu tăng mạnh doanh_nghiệp dược làm_ăn ra sao trong date,1
+482,train_482,cổ_đông name khoe lãi number tỷ đồng nhờ đi ngược đám đông đi khắp các sàn room chứng_khoán mạng xã_hội không thấy một ai khuyên mua cổ_phiếu name,2
+483,train_483,name name date lãi number tỷ đồng tăng percent so với cùng kỳ date,2
+484,train_484,name name name name date lãi number tỷ đồng giảm percent so với cùng kỳ date,0
+485,train_485,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+486,train_486,name name date lỗ tiếp number tỷ đồng,0
+487,train_487,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+488,train_488,địa_ốc name name đặt kế_hoạch lợi_nhuận number tỷ đồng cao gấp number lần date,2
+489,train_489,name name lãi_ròng gần number tỷ đồng trong date tăng_trưởng percent so với cùng kỳ date,2
+490,train_490,name lợi_nhuận date gấp number cùng kỳ,2
+491,train_491,name chứng_khoán name sẽ tăng thị_phần trong tương_lai nhưng nói không với giảm phí và chấp_nhận rủi_ro cao như một_số name hiện_nay !,1
+492,train_492,name nhà_đầu_tư đang chờ xác_nhận liệu thị_trường có_thể hấp_thụ được lượng lớn cổ_phiếu đã bán ra hay bắt_đầu một quá_trình phân_phối,1
+493,train_493,nhà_đầu_tư để sẵn number tỷ đồng nằm chờ tại các công_ty chứng_khoán vào cuối date,2
+494,train_494,khối ngoại_tiếp tục bán ròng thị_trường đỏ_lửa trong phiên date,0
+495,train_495,name name name name name lãi number tỷ đồng trong date cao gấp number lần cùng kỳ,2
+496,train_496,doanh_thu vượt mốc nghìn tỷ name name name lãi tăng percent trong date,2
+497,train_497,thế_giới name động name trình phương_án chia cổ_tức tỷ_lệ number lợi_nhuận dự tăng_trưởng percent lên number tỷ đồng,2
+498,train_498,chi_phí cước tàu tăng lợi_nhuận name giảm percent trong quý date,0
+499,train_499,name name name lãi_ròng quý date ghi_nhận đúng kế_hoạch với number tỷ đồng cao gấp number lần cùng kỳ,2
+500,train_500,name name lãi_ròng gần number tỷ đồng name đạt number đồng trong quý date,2
+501,train_501,date lỗ number tỷ đồng name name đã lỗ number quý liên_tiếp,0
+502,train_502,name name chốt quyền trả cổ_tức date bằng tiền tỷ_lệ percent,2
+503,train_503,nhiệt_điện name name name doanh_thu giảm sâu vẫn có lãi hơn number tỷ đồng trong date,2
+504,train_504,name name bị truy_thu và phạt hơn number tỷ đồng_tiền thuế,0
+505,train_505,khối ngoại chi gần number tỷ mua cổ_phiếu name ngay khi hở room trong_sáng date,2
+506,train_506,name name date đặt kế_hoạch lãi tăng gấp number lần rót vốn vào công_ty nội_thất name,2
+507,train_507,tăng bán sản_phẩm bản_quyền name name lãi date cao gấp đôi cùng kỳ,2
+508,train_508,cổ_phiếu giảm sàn la_liệt name name mất hơn number điểm trong phiên date,0
+509,train_509,ông chủ dự_án name name name date lãi number tỷ đồng cao gần gấp đôi cùng kỳ date,2
+510,train_510,name loc loc date lỗ tiếp number tỷ đồng kéo_dài số quý lỗ liên_tiếp lên con_số number,0
+511,train_511,name đẩy_mạnh tái cấu_trúc doanh_nghiệp định_hướng đầu_tư thêm các hoạt_động mới trong date,1
+512,train_512,name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+513,train_513,chứng_khoán name đạt number tỷ đồng lợi_nhuận quý date hoàn_thành gần percent kế_hoạch năm,2
+514,train_514,chứng_khoán name báo lãi datedate gấp number lần so với cùng kỳ,2
+515,train_515,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+516,train_516,name name ty chứng_khoán nào còn nhiều dư_địa cho vay margin ?,1
+517,train_517,name name lỗ ròng thêm number tỷ đồng trong quý date,0
+518,train_518,công_ty séc trắng name dành cho ai ?,1
+519,train_519,biến_tướng của name là niêm_yết cửa sau,0
+520,train_520,thuỷ_điện loc – loc – name name name date lãi number tỷ đồng cao gấp number lần cùng kỳ,2
+521,train_521,name name name cổ_phiếu bị đưa vào diện kiểm_soát từ ngày date chỉ được giao_dịch phiên chiều,0
+522,train_522,date chủ_sở_hữu triển_lãm name name name báo lãi number tỷ đồng cao gấp hơn number lần cùng kỳ,2
+523,train_523,name name vẫn chưa xử_lý được khoản nợ quá hạn number tỷ tại name,0
+524,train_524,name name name name date lãi number tỷ đồng cao gấp number lần cùng kỳ,2
+525,train_525,tái định_vị thương_hiệu name name lãi tăng percent trong date,2
+526,train_526,chứng_khoán name báo lãi hơn number tỷ đồng sau thuế quý date gấp đôi cùng kỳ,2
+527,train_527,name măng name name number name name hoạch lãi trước thuế number tỷ đồng trong date lương công_nhân bình_quân number triệu đồng / tháng,2
+528,train_528,name kỳ_vọng lợi_nhuận date đầu date tăng_trưởng percent cả năm đạt hơn number tỷ,2
+529,train_529,name name date lãi number tỷ đồng thấp nhất trong gần number năm,0
+530,train_530,name tăng quảng_cáo name name báo lãi date tăng percent so với cùng kỳ,2
+531,train_531,dư_nợ cho vay tại các name lập kỷ_lục number tỷ đồng vào cuối date tăng number tỷ so với đầu năm,2
+532,train_532,name báo lãi date gần number tỷ đồng tăng_trưởng percent so với cùng kỳ date,2
+533,train_533,name lãi number tỷ đồng trong date tăng_trưởng percent so với cùng kỳ date,2
+534,train_534,đhđcđ name name nếu tăng vốn được trong năm qua đã có_thể có number tỷ lợi_nhuận mà không quá vất_vả !,1
+535,train_535,chứng_khoán name name báo lãi date đạt gần percent kế_hoạch cả date,2
+536,train_536,phiên date khối ngoại_tiếp tục bán ròng gần number tỷ đồng tập_trung xả name,0
+537,train_537,chứng_khoán name lãi date đạt number tỷ đồng tăng gấp number lần cùng kỳ date,2
+538,train_538,name nhận doanh_thu từ bán đất nền name name name báo lãi sau thuế date đạt number tỷ đồng,2
+539,train_539,name name date thực_hiện gần nửa kế_hoạch lợi_nhuận cả năm với number tỷ đồng,2
+540,train_540,name điều_chỉnh thời_gian nộp tiền mua cổ_phiếu name trong đợt name,1
+541,train_541,cú bắt_tay chiến_lược giữa name và name cho trải_nghiệm đầu_tư number,2
+542,train_542,name lợi_nhuận trước thuế date đạt number tỷ đồng vượt kế_hoạch date,2
+543,train_543,name name tiếp_tục tất toán number tỷ đồng trái_phiếu trước hạn number năm,2
+544,train_544,những phi_vụ kỳ_lạ của thế_hệ nhà_đầu_tư name ở loc chơi chứng_khoán vì thất_nghiệp vì bạn xúi mua thậm_chí vì nghỉ dịch quá rảnh,1
+545,train_545,mảng môi_giới và cho vay tăng mạnh chứng_khoán name lãi date gần number tỷ đồng,2
+546,train_546,name name name name lợi_nhuận name trưởng percent lên kế_hoạch tăng vốn phát_triển dự_án trong nhiều năm tới,2
+547,train_547,nhờ tiết_giảm chi_phí lãi vay hoá_chất name name name báo lãi quý date tăng gấp number lần cùng kỳ,2
+548,train_548,name lắc mạnh trong phiên chiều name name vẫn tăng gần number điểm với lực kéo từ name name,2
+549,train_549,chứng_khoán name tạm chuyển_giao dịch sang name từ đầu date,1
+550,train_550,name name lợi_nhuận quý date ước đạt number tỷ đồng cao gấp number lần cùng kỳ,2
+551,train_551,name name name name name tăng percent lợi_nhuận sau thuế quý date lên number tỷ đồng,2
+552,train_552,name name báo lãi date gấp đôi cùng kỳ giá cổ_phiếu tăng gấp rưỡi từ đầu date,2
+553,train_553,thị_giá name vượt number đồng name của name vẫn đăng_ký mua number triệu cổ_phiếu,2
+554,train_554,name name dành tặng nhà_đầu_tư number vnd phí giao_dịch,1
+555,train_555,name name chốt danh_sách cổ_đông phát_hành hơn number triệu cổ_phiếu trả cổ_tức,2
+556,train_556,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+557,train_557,name name đạt lãi kỷ_lục trong quý date với number tỷ đồng cao gấp number lần cùng kỳ,2
+558,train_558,khối ngoại không còn mua name name với mức giá chênh hàng chục phần_trăm phải_chăng cổ_phiếu kín room đã hết hấp_dẫn ?,0
+559,train_559,number rào_cản lớn cần đạt nếu muốn niêm_yết tại loc thông_qua name công_bố thông_tin kiểm_soát nội_bộ và định_giá,1
+560,train_560,name name name name name name name name name name name name name name name name name name name name name name name name name tin giao_dịch lượng lớn cổ_phiếu,1
+561,train_561,chứng_khoán name name name lợi_nhuận name name vượt cả date,2
+562,train_562,name name quý date lợi_nhuận tăng percent lên number tỷ đồng,2
+563,train_563,name và name giữ vững number vị_trí lớn nhất trong rổ name với tỷ_trọng percent nhiều cổ_phiếu ngân_hàng lớn bị giảm tỷ_trọng,1
+564,train_564,name công_ty mẹ lãi number tỷ đồng quý date dư_nợ margin vượt number tỷ đồng,2
+565,train_565,name name name name name và name chính_thức lọt rổ name trong kỳ review date,2
+566,train_566,name đạt number tỷ lợi_nhuận sau thuế trong quý date tăng percent so với cùng kỳ,2
+567,train_567,danh_mục tự doanh của chứng_khoán name quý date đã bán hết các mã name name …,0
+568,train_568,lợi_nhuận date của công_ty sản_xuất phồng_tôm name name sụt_giảm percent,0
+569,train_569,name name name lãi date hơn number tỷ đồng trong khi cùng kỳ kinh_doanh thua_lỗ,2
+570,train_570,phiên date thị_trường tăng mạnh khối ngoại_tiếp tục bán ròng number tỷ đồng,0
+571,train_571,tăng vọt number điểm name vượt đỉnh lịch_sử,2
+572,train_572,name name name đến lượt name đề_xuất cho chủ_tịch hđqt nâng sở_hữu không cần chào mua công_khai,2
+573,train_573,chứng_khoán name trình đhcđ thông_qua phương_án tạm chuyển_giao dịch sang name,1
+574,train_574,name bổ_sung nhân_sự ngoại cho mục_tiêu tăng_trưởng percent date,2
+575,train_575,thuỷ_điện name name name name báo lãi quý date tăng gấp number lần cùng kỳ,2
+576,train_576,chủ_sở_hữu thương_hiệu name báo lãi quý date tăng percent,2
+577,train_577,name name lên kế_hoạch niêm_yết name đặt mục_tiêu tăng_trưởng lợi_nhuận percent trong date,2
+578,train_578,name name đăng_ký bán hơn number triệu cổ_phiếu quỹ từ date đến date,0
+579,train_579,chứng_khoán loc name thông_qua phương_án tăng vốn lên number tỷ đồng lên kế_hoạch niêm_yết cổ_phiếu,2
+580,train_580,name thế dòng tiền thanh khoản khủng – vẫn chưa phải là phân_phối,1
+581,train_581,name name báo lãi quý date gấp number lần cùng kỳ vượt percent chỉ_tiêu lợi_nhuận cả năm,2
+582,train_582,hàng_loạt doanh_nghiệp tặng quà đầy bất_ngờ cho cổ_đông,1
+583,train_583,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ number date,2
+584,train_584,name thị_trường phân_hoá name name có_thể không tăng mạnh trong tuần number date,1
+585,train_585,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+586,train_586,tiêu_điểm xử_phạt tuần qua thêm nhiều doanh_nghiệp và cá_nhân bị name phạt,0
+587,train_587,name tất toán gần number tỷ đồng danh_mục tự doanh lãi date gấp number lần cùng kỳ date,2
+588,train_588,[ quy_tắc đầu_tư vàng ] nhà_sáng_lập name chia_sẻ bí_quyết giảm_thiểu rủi_ro trong đầu_tư chứng_khoán,1
+589,train_589,name name name name date lãi number tỷ đồng hoàn_thành percent kế_hoạch cả date,2
+590,train_590,giảm mạnh chi_phí dịch_vụ hàng không name có lãi number tỷ đồng trong date,2
+591,train_591,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+592,train_592,điện_lực name name name date báo lỗ number tỷ đồng,0
+593,train_593,name phiên name cháy hàng danh_hiệu doanh_nghiệp ngành muối duy_nhất trên sàn sắp có truyền nhân ?,1
+594,train_594,name phát_hành number triệu name trái_phiếu quốc_tế quyền chọn nhận cổ_phiếu name giá number đồng / cp,2
+595,train_595,đhđcđ name name tiên dùng vốn huy_động để mở_rộng quy_mô quý date lợi_nhuận tăng percent lên number tỷ đồng,2
+596,train_596,name name dự_kiến doanh_thu lợi_nhuận quý name tăng mạnh,2
+597,train_597,lãi lớn name name chốt quyền nhận cổ_tức bằng tiền tỷ_lệ percent,2
+598,train_598,name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+599,train_599,nhà_đầu_tư chú_ý cổ_phiếu name sắp bị huỷ niêm_yết bắt_buộc trên name,0
+600,train_600,nhờ tiết_giảm chi_phí name name báo quý date tăng gấp number lần cùng kỳ,2
+601,train_601,đón_đầu xu_hướng nâng hạng khối ngoại có_thể đẩy_mạnh mua ròng cổ_phiếu loc từ nửa cuối date ?,2
+602,train_602,name name chủ_tịch name đã bán ra number cổ_phiếu giảm sở_hữu xuống còn percent vốn,0
+603,train_603,tiết_giảm chi_phí lãi vay name name báo lãi quý date tăng percent so với cùng kỳ,2
+604,train_604,doanh_nghiệp niêm_yết sắp huy_động gần number tỷ đồng qua phát_hành tăng vốn name và name name đầu_bảng,2
+605,train_605,một cá_nhân bị phạt nặng vì dùng number tài_khoản thao_túng giá cổ_phiếu name,0
+606,train_606,đhđcđ name vấp phải đối_thủ mảng khí name đặt kế_hoạch lợi_nhuận thấp nhất từ date dù giá dầu tăng,0
+607,train_607,doanh_nhân name hiểu mình để độc_lập đưa ra quyết_định đầu_tư,1
+608,train_608,hồi_phục tốt name chỉ còn giảm number điểm,0
+609,train_609,quý date name lãi number tỷ đồng ra_mắt nền_tảng đầu_tư cộng_đồng icopy,2
+610,train_610,name đẩy_mạnh tư_vấn phát_hành trái_phiếu cho name,0
+611,train_611,nhiều name đang đói mục_tiêu cơ_hội rộng_mở cho khả_năng name name thành_công tại loc ?,1
+612,train_612,name name trình cổ_đông phương_án chuyển sàn name chia cổ_tức date với tỷ_lệ percent,2
+613,train_613,name date lãi number tỷ đồng vượt percent kế_hoạch cả date,2
+614,train_614,name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+615,train_615,thấy gì qua chiến_lược cổ_tức của doanh_nghiệp trên sàn chứng_khoán ?,1
+616,train_616,đhcđ name tỷ_suất lợi_nhuận của chúng_ta ngay cả các công_ty trên thế_giới cũng phải thèm_khát,2
+617,train_617,name name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+618,train_618,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+619,train_619,name khối ngoại không còn tác_động lớn nhà_đầu_tư nội là động_lực đưa thị_trường đi lên tầm cao mới,2
+620,train_620,name name đạt lợi_nhuận gấp number lần cùng kỳ date hoàn_thành percent kế_hoạch date,2
+621,train_621,trái với sự thăng_hoa của thị_trường không ít name ngược dòng giảm sâu từ đầu date,0
+622,train_622,name name date đặt mục_tiêu lãi number tỷ đồng – đi ngang so với date,1
+623,train_623,thuỷ_điện loc loc name date lãi number tỷ đồng cao gấp number lần cùng kỳ date,2
+624,train_624,name name date đặt mục_tiêu lãi number tỷ đồng cao gấp đôi date,2
+625,train_625,hưởng lợi từ giá thép tăng name lãi cao kỷ_lục trong date,2
+626,train_626,name name quý date công_ty mẹ đạt number đồng / cổ_phiếu bằng cả date,2
+627,train_627,loc loc name date lãi number tỷ đồng cao gấp hơn number lần cùng kỳ,2
+628,train_628,tư_vấn xây_dựng điện number name name hoạch lãi trước thuế date đi ngang với number tỷ đồng,1
+629,train_629,name tăng percent từ đầu date một cá_nhân vẫn mua vào number triệu cổ_phiếu,2
+630,train_630,thuỷ_điện loc name date lãi number tỷ đồng hoàn_thành percent mục_tiêu cả date,2
+631,train_631,name tăng percent từ đầu năm một lãnh_đạo địa_ốc name muốn bán bớt number triệu cổ_phiếu để giải_quyết nhu_cầu tài_chính,0
+632,train_632,name áp_dụng cải_tiến về kỹ_thuật vận_hành tình_trạng quá_tải đã giảm bớt,2
+633,train_633,cổ_phiếu name lập đỉnh mới vốn hoá name bằng tổng name name và name cộng lại,2
+634,train_634,chứng_khoán name ghi_nhận kết_quả kinh_doanh ấn_tượng trong quý date,2
+635,train_635,phiên date khối ngoại_tiếp tục bán ròng gần number tỷ đồng tập_trung xả name,0
+636,train_636,loc name lỗ lớn number tỷ đồng ngay date,0
+637,train_637,name măng name name name bị truy_thu và phạt hơn number tỷ đồng_tiền thuế,0
+638,train_638,name name name tiếp_tục chia cổ_tức đợt number với tỷ_lệ percent,2
+639,train_639,name name tiếp_tục tăng vốn lên number tỷ đồng_vốn_hoá dự_kiến number tỷ name theo định_giá của chủ_tịch name,2
+640,train_640,name vừa bán bớt number triệu cổ_phiếu name name,0
+641,train_641,chứng_khoán name dự_kiến tăng vốn_điều_lệ lên number tỷ đồng đặt mục_tiêu lợi_nhuận tăng_trưởng hơn percent,2
+642,train_642,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+643,train_643,cổ_phiếu ngân_hàng chứng_khoán đồng_loạt điều_chỉnh name name mất mốc number điểm,0
+644,train_644,name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+645,train_645,loc name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+646,train_646,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+647,train_647,tài_sản người giàu loc tăng mạnh thêm number nhân_vật tiệm_cận danh_sách tỷ_phú đô_la,2
+648,train_648,name sẽ là chủ_tịch name ?,1
+649,train_649,đầu_tư cổ_phiếu bất_động_sản nào trong thời_kỳ giá đất tăng phi_mã ?,1
+650,train_650,name cũng muốn name tại loc kỳ_vọng định_giá number tỷ name,1
+651,train_651,giá thép tăng mạnh name name name name báo lãi date tăng percent so với cùng kỳ hoàn_thành percent kế_hoạch,2
+652,train_652,ishare name thay_đổi chỉ_số tham_chiếu thị_trường loc có_thể chỉ còn chiếm percent danh_mục thay_vì percent như kỳ_vọng cũ,0
+653,train_653,name giữ vị_trí số number thị_phần môi_giới name name và phái_sinh trong quý date,2
+654,train_654,nắm trong tay number nhân_sự một thành_viên của name đang hướng tới nhiều lĩnh_vực kinh_doanh tiềm_năng ngoài viễn_thông,2
+655,train_655,name được dự_báo lên number number điểm tôi có nên vay bố_mẹ number triệu đồng để đầu_tư chứng_khoán ?,1
+656,train_656,name name chốt quyền trả cổ_tức date bằng tiền tỷ_lệ percent,2
+657,train_657,doanh_thu sụt_giảm hơn number tỷ đồng nhiệt_điện name name name vẫn có lãi date tăng_trưởng so với cùng kỳ date,2
+658,train_658,phiên date khối ngoại bán ròng hơn number tỷ đồng tập_trung bán name name name,0
+659,train_659,thị_trường_chứng_khoán trong cơn say tiền nhà_đầu_tư name có tỉnh ?,1
+660,train_660,dự_thảo sắp_xếp lại name chuyển toàn_bộ giao_dịch cổ_phiếu về name từ năm number,1
+661,train_661,đảo chiều bất_ngờ phiên chiều name tăng gần number điểm,2
+662,train_662,loc loc name sắp phát_hành hơn number triệu cổ_phần date sẽ tiếp_tục name các dự_án điện gió,2
+663,train_663,name chỉ lỗ hơn number tỷ đồng trong quý date doanh_thu bán rượu tăng đột_biến percent,1
+664,train_664,ông name đăng_ký mua number triệu cổ_phiếu của name name,2
+665,train_665,name thông_tin chính_thức về khả_năng niêm_yết name tại loc nhắc đến name là một trong các khả_năng,2
+666,train_666,tín_dụng chảy vào chứng_khoán có tháng tăng nóng hiện dư_nợ hơn number tỷ đồng,0
+667,train_667,name loc name date lãi number tỷ đồng cao gấp gần number lần cùng kỳ,2
+668,train_668,name name triển_khai phương_án phát_hành number triệu cổ_phiếu tăng vốn_điều_lệ lên gấp đôi,2
+669,train_669,name name name name name name name name name name name name name tr1 name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+670,train_670,name phát_hành number tỷ trái_phiếu với name,0
+671,train_671,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+672,train_672,hiện_tượng của ngành tôm công_ty kín_tiếng xuất_khẩu gần number triệu name name number đồng lợi_nhuận date cao hơn cả vua tôm loc,2
+673,train_673,khát_khao viết tiếp câu_chuyện của thế_giới name động theo_đuổi thần_tượng name nhưng cổ_phiếu name đang bị cả name và name bán mạnh kể từ date,0
+674,train_674,name name name name name name có tiềm_năng tăng_trưởng lớn cổ_phiếu ngân_hàng xứng_đáng được định_giá cao hơn,2
+675,train_675,name name muốn tăng sở_hữu tại phồng_tôm name name lên percent vốn,2
+676,train_676,lỗ luỹ kế vượt vốn_điều_lệ cổ_phiếu name của name sắp bị huỷ niêm_yết,0
+677,train_677,nhiệt_điện name name name date bất_ngờ báo lỗ number tỷ đồng,0
+678,train_678,name name khoán name names đặt mục_tiêu lãi number tỷ đồng date trên cơ_sở name name dao_động quanh number number điểm,2
+679,train_679,thị_trường đỏ_lửa khối ngoại trở_lại mua ròng trong phiên date,2
+680,train_680,name name name name đăng_ký mua thêm number triệu cổ_phiếu name của name,2
+681,train_681,cổ_phiếu name tăng trần number phiên liên_tiếp,2
+682,train_682,name name name name lượng đặt mua gấp number lần số cổ_phần mang ra chào_bán,2
+683,train_683,name name lợi_nhuận giảm sau kiểm_toán bị nghi_ngờ khả_năng hoạt_động liên_tục,0
+684,train_684,chuyên_gia name name name đổ tiền vào chứng_khoán và bất_động_sản một phần do còn bị hạn_chế về kênh đầu_tư,1
+685,train_685,thanh khoản thị_trường lên hơn number tỷ đồng name name giảm điểm bất_chấp_lực kéo từ nhóm name,0
+686,train_686,name name name name name name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+687,train_687,doanh_thu của name name tăng mạnh trong date,2
+688,train_688,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+689,train_689,date công_ty mẹ cao_su name name name lãi number tỷ đồng giảm percent so với cùng kỳ date,0
+690,train_690,tiếp đà hưng_phấn name name hướng tới mốc number điểm ?,2
+691,train_691,thua_lỗ gần number tỷ đồng bị nghi_ngờ khả_năng hoạt_động cổ_phiếu name vẫn tăng trần number phiên liên_tiếp,2
+692,train_692,name name lãi lớn ngay date trình kế_hoạch lãi number tỷ đồng date,2
+693,train_693,name name lạc_quan vào name name name nâng mục_tiêu name name lên number điểm vào cuối date,2
+694,train_694,name name dự_kiến name tại loc kỳ_vọng định_giá đạt tối_thiểu number tỷ name sau niêm_yết,1
+695,train_695,number ngân_hàng họp cổ_đông trong number ngày,1
+696,train_696,vượt đỉnh cũ đưa giá_trị name lên hơn number tỷ name tài_sản tỷ_phú name trên name sắp đạt number tỷ name,2
+697,train_697,name giải phiên number tỷ name đã cải_tiến giải_pháp kỹ_thuật hỗ_trợ hệ_thống tăng năng_lực xử_lý lệnh việc phối_hợp với name được triển_khai song_song,2
+698,train_698,name name đặt kế_hoạch lãi sau thuế date giảm gần nửa về mức number tỷ đồng,0
+699,train_699,name name tái cấu_trúc mảng năng_lượng đặt kế_hoạch đi ngang trong date,1
+700,train_700,name vẫn tăng kịch trần dù lỗ luỹ kế sau kiểm_toán tăng thêm hơn number tỷ đồng,0
+701,train_701,giá_trị khớp lệnh name lập kỷ_lục number tỷ name name tăng mạnh nhất loc phiên date,2
+702,train_702,name name đặt kế_hoạch lãi sau thuế trên nghìn tỷ date,2
+703,train_703,phiên date khối ngoại_tiếp tục bán ròng tập_trung bán cổ_phiếu ngân_hàng,0
+704,train_704,name tăng mạnh number điểm thanh khoản sàn name vọt lên number nghìn tỷ,2
+705,train_705,đầu_tư name su name name name date báo lãi number tỷ đồng trong khi cùng kỳ thua_lỗ,2
+706,train_706,name name lên_tiếng giải_trình ý_kiến ngoại_trừ của kiểm_toán về khoản đầu_tư vào name name name,1
+707,train_707,chứng_khoán đua tăng vốn cơ_hội nên chụp lấy,2
+708,train_708,đhcđ name name đặt mục_tiêu lãi gấp number lần date đưa name lên sàn với giá number nghìn đồng / cổ vào quý date,2
+709,train_709,chứng_khoán name name name chuẩn_bị chốt quyền trả cổ_tức percent bằng tiền,2
+710,train_710,name lên sàn chứng_khoán tăng gần percent trong ngày chào sàn,2
+711,train_711,name tiếp_tục có các động_thái bán tài_sản lớn,0
+712,train_712,name name number lý_do khiến người name name đổ_xô vào chứng_khoán và vì sao nhà_đầu_tư name không còn là gà ?,1
+713,train_713,tiêu_điểm xử_phạt tuần qua rất nhiều cá_nhân bị name phạt,0
+714,train_714,name name name chứng_khoán name name tự_tin với kế_hoạch date,1
+715,train_715,tỷ_suất lợi_nhuận cao chót_vót number công_ty tôm giống có name number đồng định_giá cao hơn cả vua tôm name dù doanh_thu chỉ bằng date,2
+716,train_716,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ number date,2
+717,train_717,name chứng_khoán name name thế công_nghệ và tiềm_lực tài_chính giúp lượng tài_khoản mở mới tăng gấp number lần,2
+718,train_718,name thế dòng tiền chỉnh thuần_tuý kỹ_thuật cơ_hội tăng vẫn còn,2
+719,train_719,name name name name date đặt mục_tiêu lãi number tỷ đồng,2
+720,train_720,name các thông_tin vĩ_mô trong và ngoài nước đang ủng_hộ nhịp tăng của thị_trường name name hướng tới vùng number điểm,2
+721,train_721,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+722,train_722,name date lãi number tỷ đồng cao gấp gần number lần cùng kỳ date,2
+723,train_723,name name date lãi vỏn_vẹn number triệu đồng – thấp nhất kể từ date,0
+724,train_724,name name âm_thầm lọt name number tỷ_phú giàu nhất sàn tiến sát vị_trí của bà name,1
+725,train_725,loc loc name date lãi number tỷ đồng tăng percent so với cùng kỳ,2
+726,train_726,chọn cạnh_tranh thay_vì bán lại cho name tương_ớt name tiếp_tục sống khoẻ khi trả cổ_tức percent name đạt number đồng,2
+727,train_727,name name đặt kế_hoạch đi lùi lợi_nhuận dự_kiến vào mức number tỷ đồng,0
+728,train_728,name triển_vọng vĩ_mô lạc_quan name name có_thể lên mốc number điểm trong năm nay,2
+729,train_729,cổ_phiếu name ra khỏi diện bị kiểm_soát,2
+730,train_730,name name name name kế_hoạch name number tỷ đồng tiếp_tục tìm_kiếm đối_tác chiến_lược,1
+731,train_731,tgđ name thị_phần môi_giới thời_gian qua tương_đối ảo ước lợi_nhuận date đạt number tỷ đồng,1
+732,train_732,name name ước lãi number tỷ đồng trong date gấp đôi kế_hoạch nhờ thoái vốn name name,2
+733,train_733,ông name name mà bỏ name sau_này ân_hận,2
+734,train_734,liên_tục lướt_sóng nhóm name lại mua thêm number triệu cổ_phiếu name trong những ngày đầu date,2
+735,train_735,một cá_nhân bán number triệu cổ_phiếu và không còn là cổ_đông lớn của name,0
+736,train_736,name chứng_khoán name name name tôi có_thể ra khỏi top number thị_phần môi_giới nhưng tỷ_suất lợi_nhuận mảng này vẫn cao nhất,2
+737,train_737,name name ngân_hàng dẫn_dắt name name hướng đến vùng number điểm trong date,2
+738,train_738,name name name name bất_ngờ tăng kế_hoạch kinh_doanh date mục_tiêu trở_thành nhà_phân_phối name lớn của name với doanh_thu number tỷ name,2
+739,train_739,giám_đốc tư_vấn đầu_tư name khối ngoại không ảnh_hưởng quá lớn tới name loc như một thập_kỷ trước date sẽ có thêm number tỷ cho vay margin,2
+740,train_740,kế_hoạch doanh_thu number tỷ của loc nguồn thu đáng_kể sẽ đến từ name name,1
+741,train_741,name name đốc name ông name thị_phần môi_giới hiện_nay có yếu_tố ảo hầu_hết name hàng name đều đang phải cân_nhắc,1
+742,train_742,đhđcđ name name date mảng name sẽ bùng_nổ trở_lại với tổng quy_mô dự_kiến number tỷ name date ước lãi number tỷ đồng,2
+743,train_743,khối ngoại mua ròng đột_biến hơn number tỷ đồng trong phiên date,2
+744,train_744,name name name tăng mạnh name chốt phiên cuối tuần giảm nhẹ,1
+745,train_745,name su loc đặt kế_hoạch lãi date tăng_trưởng hơn percent so với cùng kỳ date,2
+746,train_746,name name hoàn_tất nhà_máy điện mặt_trời name tổng đầu_tư lên đến number tỷ đồng,2
+747,train_747,loc loc name chốt danh_sách cổ_đông nhận cổ_tức bằng tiền tỷ_lệ percent,2
+748,train_748,chứng_khoán name name name số_lượng cổ_đông tăng đột_biến lên hơn number người date thực_hiện đến percent kế_hoạch năm với number tỷ lãi trước thuế,2
+749,train_749,name name name name không sợ mất cơ_hội chỉ sợ mất tiền !,1
+750,train_750,name name name bất_ngờ đặt mục_tiêu lỗ number tỷ đồng trong date,0
+751,train_751,name name đạt sản_lượng bán hàng kỷ_lục trong quý date xuất_khẩu tăng mạnh nhờ thị_trường loc và loc,2
+752,train_752,date từ sự_cố nhỏ với name name từ công_ty trị_giá number triệu name đã mất percent giá_trị lỗ tổng_cộng number tỷ đồng,0
+753,train_753,name vẫn xử_lý và chấp_thuận niêm_yết mới nhưng tạm_thời giao_dịch trên name,2
+754,train_754,name name date sẽ có doanh_thu nghìn tỷ lãi tăng percent so với date,2
+755,train_755,name tăng percent từ đầu năm name quyết_định mang number triệu cổ_phiếu quỹ ra bán,2
+756,train_756,các lãnh_đạo name name liên_tục muốn bán cổ_phiếu để lấy tiền đầu_tư,0
+757,train_757,name nắm giữ gần number tỷ đồng chứng_chỉ name name đặt niềm tin vào name,2
+758,train_758,name đổi tên công_ty date đặt mục_tiêu lãi number tỷ đồng cao gấp đôi date,2
+759,train_759,name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+760,train_760,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+761,train_761,name name thị_trường cận biên vừa trải qua hai tháng củng_cố sau sự phục_hồi mạnh_mẽ từ đầu date,2
+762,train_762,cổ_phiếu name và cổ_phiếu name đứng trước nguy_cơ bị huỷ_bỏ niêm_yết,0
+763,train_763,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+764,train_764,đhcđ name name date ước tăng percent tuyển thêm number nhân_sự trong năm nay để đáp_ứng nhu_cầu tăng_trưởng,2
+765,train_765,thị_giá chỉ number một công_ty nuôi heo có name date tăng gấp number lần lên number đồng từng có lúc name đạt number đồng,2
+766,train_766,cổ_phiếu hàng không lấy lại_sức sống,2
+767,train_767,ông name chỉ date thôi name sẽ giải_quyết được vấn_đề của name mà người khác làm mấy năm không xong,2
+768,train_768,name đặt kế_hoạch lãi number tỷ đồng trong date giảm gần percent so với năm trước,0
+769,train_769,name name name có thu_nhập number triệu đồng / tháng thì nên đầu_tư number ngàn đến number triệu vào chứng_khoán nhưng hãy đầu_tư trong dài_hạn,1
+770,train_770,chủ_tịch name khoe công_ty tạo ra number triệu_phú đô_la khi lên sàn lái_xe cũng có tiền cho con đi du_học,2
+771,train_771,name loc loc tố xe tránh qua loc loc nhưng vẫn mượn đường numberm mà không trả phí,1
+772,train_772,khối ngoại bán ròng trên name name name mất hơn number điểm trong phiên date,0
+773,train_773,vụ call margin chấn_động loc loc đánh gấp thếp kèm đòn_bẩy cao để biến number triệu name thành number tỷ name,1
+774,train_774,name name lên kế_hoạch lợi_nhuận date tăng percent và phát_hành thêm number triệu cổ_phiếu,2
+775,train_775,name sẵn_sàng khai_thác chuyến bay quốc_tế từ date đặt kế_hoạch tăng_trưởng lợi_nhuận gần percent trong date,2
+776,train_776,name thông_tư number sẽ giảm áp_lực trích_lập dự_phòng của các name,2
+777,train_777,kỷ_lục chưa từng có nhà_đầu_tư trong nước mở mới number tài_khoản chứng_khoán trong date bằng xấp_xỉ percent cả date,1
+778,train_778,loc loc name trình kế_hoạch phát_hành hơn number tỷ đồng trái_phiếu cổ_phiếu,2
+779,train_779,công_ty dược lớn thứ number sàn chứng_khoán muốn huỷ niêm_yết khi name nắm giữ hơn percent vốn,0
+780,train_780,name name lắp dầu_khí name lỗ luỹ kế number tỷ đồng kiểm_toán tiếp_tục từ_chối đưa ra ý_kiến,0
+781,train_781,tiếp_tục nghẽn lệnh name name chấm_dứt chuỗi number phiên tăng điểm liên_tiếp,0
+782,train_782,name name name chốt danh_sách cổ_đông chi cổ_tức đợt date bằng tiền tỷ_lệ gần percent,2
+783,train_783,cơ_hội tìm_kiếm cổ_phiếu có mức cổ_tức cao từ nghị_định number,2
+784,train_784,name name name name sẽ giao_dịch như_thế_nào ?,1
+785,train_785,những cổ_phiếu hiếm_hoi vẫn ở đáy dù name name liên_tục lập đỉnh,2
+786,train_786,name mua thêm hơn number triệu cổ_phiếu name đã nắm quá_bán số cổ_phần tại name,2
+787,train_787,name sắp niêm_yết cổ_phiếu tại loc với mức định_giá number tỷ name,1
+788,train_788,cổ_phiếu name của name được cấp margin trở_lại,2
+789,train_789,name name vĩ_mô tích_cực name name name vẫn là điểm đến hấp_dẫn của dòng vốn trong dài_hạn,2
+790,train_790,name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+791,train_791,công_ty chứng_khoán chạy_đua tăng vốn đáp_ứng cơn khát margin trên thị_trường,2
+792,train_792,name date đặt kế_hoạch lãi trước thuế number tỷ đồng cổ_tức tổi thiểu percent hoàn_thành thoái vốn name name,2
+793,train_793,những con_số nổi_bật của thị_trường_chứng_khoán loc quý name,2
+794,train_794,làm công ăn lương thu_nhập tháng chỉ number number triệu đồng tôi có nên góp number triệu đồng cùng bạn thân đầu_tư chứng_khoán ?,1
+795,train_795,name name sắp phát_hành cổ_phiếu name và chia cổ_tức tổng tỷ_lệ percent kế_hoạch lãi date gấp đôi lên number tỷ đồng,2
+796,train_796,name name name vọng vĩ_mô lạc_quan name name có_thể cán mốc number điểm,2
+797,train_797,name tăng percent thị_trường_chứng_khoán tiếp_tục thu_hút dòng tiền khi liên_tục xác_lập đỉnh_cao mới,2
+798,train_798,phiên date khối ngoại_tiếp tục bán ròng tập_trung bán name name,0
+799,train_799,name name kế_hoạch lợi_nhuận tăng percent lên number tỷ đồng date sẽ phát_hành number triệu cổ_phiếu name,2
+800,train_800,name lập liên_doanh với name đặt mục_tiêu tiêu_thụ number triệu tấn thép date,2
+801,train_801,name name name đặt kế_hoạch lợi_nhuận date tăng gấp number lần lên hơn number tỷ đồng,2
+802,train_802,name thông_qua phương_án tăng vốn cho cổ_đông hiện_hữu dự_thu về number tỷ đồng bổ_sung nguồn vốn margin tự doanh,2
+803,train_803,name name lãi_ròng sau kiểm_toán điều_chỉnh xuống còn number tỷ đồng date giảm number tỷ dư_nợ vay,0
+804,train_804,name name khắc_phục tình_trạng quá_tải hệ_thống trên name name name thêm động_lực hướng tới vùng mục_tiêu number number điểm,2
+805,train_805,thanh khoản name phái_sinh date tăng percent so với bình_quân date,2
+806,train_806,name name dành percent lợi_nhuận của date chia cổ_tức cho cổ_đông,2
+807,train_807,nhóm ngân_hàng chứng_khoán bứt_phá mạnh name name name trở_thành quỹ tăng_trưởng tốt nhất thị_trường date,2
+808,train_808,name tăng gấp number từ đầu năm name vẫn chi gần number tỷ đồng mua number triệu cổ_phiếu,2
+809,train_809,name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+810,train_810,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+811,train_811,những cổ_phiếu tăng sốc từ đầu date quán_quân thuộc về cổ_phiếu tăng gấp number lần,2
+812,train_812,name name name đặt kế_hoạch tăng percent name lên number tỷ đồng mở mới number cửa_hàng dược loc,2
+813,train_813,quỹ đầu_tư rót number triệu name vào name vừa huy_động thêm number tỷ name đầu_tư vào loc,2
+814,train_814,nợ number tỷ đồng chỉ thu được number triệu đồng nên cưỡng_chế hoá_đơn name name,0
+815,train_815,name name và nhiều tên_tuổi lớn không được giao_dịch ký_quỹ trong date,0
+816,train_816,đhđcđ name name date sẽ lấn_sân thị_trường tivi máy_giặt quy_mô number tỷ name,1
+817,train_817,lãi lớn date name đặt kế_hoạch trả cổ_tức lên tới percent,2
+818,train_818,name name lên kế_hoạch mua thêm percent cổ_phần name name từ name,2
+819,train_819,chính_thức hợp_nhất name sẽ tác_động như_thế_nào đến name ?,1
+820,train_820,name name đặt kế_hoạch lợi_nhuận hơn number tỷ đồng date triển_khai dự_án name name nghiệp name name number numbera,2
+821,train_821,phiên date khối ngoại quay đầu bán ròng name name gặp khó trước ngưỡng number điểm,0
+822,train_822,name name may name name name cổ_đông lớn name ứng_cử ghế hđqt sẽ phát_hành cổ_phiếu thưởng percent và chia percent cổ_tức tiền_mặt,2
+823,train_823,name name tăng_trưởng percent lãi sau thuế trong quý date ước đạt number tỷ đồng,2
+824,train_824,name name chốt quyền tạm_ứng cổ_tức đợt date bằng tiền tỷ_lệ percent,2
+825,train_825,thêm number công_ty con của name name name name tiến_hành name đưa gần number triệu cổ_phiếu ra chào_bán,1
+826,train_826,nhiều mã chứng quyền tăng bằng lần date qua giúp nhà_đầu_tư kiếm bộn,2
+827,train_827,name name dự_kiến chia cổ_tức date với tỷ_lệ percent,2
+828,train_828,name name kế_hoạch lãi trước thuế date sụt_giảm percent về mức number tỷ đồng,0
+829,train_829,name name chốt quyền nhận cổ_tức đợt date bằng tiền tỷ_lệ percent,2
+830,train_830,lỗ luỹ kế vượt quá số vốn_điều_lệ thực góp name name có khả_năng bị huỷ niêm_yết,0
+831,train_831,chứng_khoán name name name đủ khả_năng vượt cản tâm_lý kết_thúc quý date trên ngưỡng number điểm,2
+832,train_832,nghẽn lệnh trong phiên chiều name name thất_bại trước mốc number điểm,0
+833,train_833,name name đặt kế_hoạch lợi_nhuận number tỷ đồng trong date tăng_trưởng gần percent so với năm trước,2
+834,train_834,name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+835,train_835,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+836,train_836,name name name name dự_kiến lợi_nhuận date tăng trên percent đạt number tỷ đồng,2
+837,train_837,name dòng tiền từ các quỹ ngoại mới và nhà_đầu_tư nội_tiếp tục nâng_đỡ thị_trường name name có_thể cán mốc number điểm trong date,2
+838,train_838,name doanh_nghiệp này đang thu_hút các nhà_đầu_tư am_hiểu bất_động_sản,2
+839,train_839,name lần đầu tính đến việc sử_dụng đòn_bẩy tài_chính đặt kế_hoạch date đi ngang,1
+840,train_840,name dòng vốn ngoại có_thể chảy vào name loc từ nửa cuối date tập_trung vào nhóm name,2
+841,train_841,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+842,train_842,name date sụt_giảm liên_tiếp name đặt kế_hoạch lãi number tỷ đồng trong date tăng gần percent so với năm trước,2
+843,train_843,name name lộ loc và loc – loc được thu phí là cơ_sở tăng percent lợi_nhuận date lên number tỷ đồng kế_hoạch huy_động đến number tỷ trái_phiếu,2
+844,train_844,điên_cuồng khuấy_đảo loc loc trong những ngày đầu năm nhưng giờ_đây lại biến mất nhà_đầu_tư nhỏ_lẻ đã đi đâu ?,1
+845,train_845,name muốn đổi tên công_ty đặt kế_hoạch name date giảm nhẹ xuống number tỷ trả cổ_tức percent date,2
+846,train_846,khối ngoại_tiếp tục mua ròng gần number tỷ đồng trong phiên date,2
+847,train_847,name bứt_phá ngoạn_mục lên trên number đồng name bất_ngờ đảo chiều giảm sàn name tăng number điểm cuối phiên,2
+848,train_848,chủ_sở_hữu trà bí_đao name đặt kế_hoạch xoá lỗ luỹ kế hồi_sinh mạnh_mẽ sau date về tay người nhật,2
+849,train_849,name ước lãi trước thuế number tỷ đồng trong date tăng_trưởng percent so với cùng kỳ date,2
+850,train_850,thị_phần môi_giới hose quý date name number gia_tăng cách_biệt name bất_ngờ dẫn_đầu,2
+851,train_851,vợ name name chốt lãi cổ_phiếu kỳ_lân name có_thể thu về cả nghìn tỷ đồng,2
+852,train_852,thêm một công_ty chứng_khoán lên kế_hoạch tạm chuyển sang name để giảm tải hệ_thống,2
+853,train_853,name và name ký_kết thành_công thoả_thuận hợp_tác chiến_lược,2
+854,train_854,name name name mua hàng trăm tỷ cổ_phiếu loc ngay những phút mở_cửa phiên date ?,2
+855,train_855,nhiệt_điện name name name điều_chỉnh tăng number tỷ đồng name trên name kiểm_toán date,2
+856,train_856,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ date date,2
+857,train_857,name đặt kế_hoạch lợi_nhuận date tăng hơn percent dự_kiến mua number triệu cổ_phiếu quỹ,2
+858,train_858,name name name thu_hút sự quan_tâm trước ngày name,1
+859,train_859,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+860,train_860,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+861,train_861,name bất_cứ nhịp điều_chỉnh sâu nào của thị_trường đều là cơ_hội tích_luỹ cổ_phiếu,2
+862,train_862,kỳ_vọng gì ở cổ_phiếu ngân_hàng ?,1
+863,train_863,name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+864,train_864,name name phá đỉnh lịch_sử điều gì chờ_đợi phía trước ?,1
+865,train_865,name thế dòng tiền name name vượt đỉnh chọn cổ_phiếu khoẻ mới quan_trọng,2
+866,train_866,name name ngoại bán ròng number tỷ đồng trong tháng date,0
+867,train_867,name name chốt danh_sách cổ_đông nhận cổ_tức bằng tiền tỷ_lệ percent,2
+868,train_868,quy_mô hơn number tỷ đồng name name trở_thành quỹ name lớn nhất name loc vượt qua cả name name hay name name,2
+869,train_869,[ quy_tắc đầu_tư vàng ] nguyên_tắc vàng để giữ được tiền trên thị_trường_chứng_khoán qua câu truyện_cổ,1
+870,train_870,một doanh_nghiệp kinh_doanh kềm chi_trả cổ_tức hàng chục phần_trăm mỗi năm nhưng giá cổ_phiếu chưa tới number đồng,0
+871,train_871,name name giá dầu tăng cao thúc_đẩy lợi_nhuận quý date đạt mức number tỷ đồng,2
+872,train_872,đhđcđ name number name sẽ phát_hành number tỷ cổ_phần mới nếu không thành sẽ được ông name mua toàn_bộ,1
+873,train_873,chứng_khoán name name dự_kiến phát_hành number tỷ đồng trái_phiếu chuyển_đổi,1
+874,train_874,name và thương_vụ thua_lỗ number tỷ name do margin call,0
+875,train_875,name có kế_hoạch tăng vốn lên number tỷ đặt kế_hoạch kinh_doanh date giảm mạnh,0
+876,train_876,name tăng mạnh chủ_tịch hđqt và hai vị nữ giám_đốc của công_ty muốn bán cổ_phiếu để mua nhà,0
+877,train_877,name công_bố ngày chốt danh_sách cổ_đông trả cổ_tức bằng tiền tỷ_lệ percent,2
+878,train_878,name lãi gần number tỷ đồng từ number giao_dịch bán_buôn,2
+879,train_879,lỗ luỹ kế hơn number tỷ đồng name name tiếp_tục trình kế_hoạch dùng thặng_dư vốn xoá lỗ,0
+880,train_880,name name name điều_chỉnh giảm percent lãi sau thuế sau kiểm_toán do trích_lập dự_phòng lên kế_hoạch niêm_yết name,0
+881,train_881,number viên kim_cương nào sẽ lọt rổ name trong kỳ review date ?,1
+882,train_882,mã lớn trong vn30 là động_lực cho thị_trường bứt_phá,1
+883,train_883,thêm number tài_khoản mở mới tại name sức hút từ gói vay margin percent,1
+884,train_884,name đặt kế_hoạch lợi_nhuận date giảm hơn percent chi_trả cổ_tức percent,0
+885,train_885,thoái vốn từ name giúp name name bổ_sung nguồn vốn xây_dựng name name,2
+886,train_886,khối ngoại_tiếp tục mua ròng number tỷ đồng trong phiên date,2
+887,train_887,name name name date đặt mục_tiêu name tăng percent lên number tỷ đồng tiếp_tục vay vốn lớn cho dự_án name name name,2
+888,train_888,name name đặt kế_hoạch kinh_doanh đi ngang trong date,0
+889,train_889,sôi_động chứng_khoán đầu năm tài_khoản mới tại name tăng percent,2
+890,train_890,name bất_ngờ được khối ngoại mua ròng gần number triệu cổ_phiếu name tiếp đà tăng mạnh,2
+891,train_891,vì sao khối ngoại dừng bán ròng ?,1
+892,train_892,name name name chốt danh_sách cổ_đông nhận cổ_tức bằng tiền tỷ_lệ percent,2
+893,train_893,chứng_khoán name dự_kiến phát_hành number tỷ đồng trái_phiếu chuyển_đổi,2
+894,train_894,mức đãi_ngộ vượt_trội nhiều tập_đoàn tỷ đô dành cho ban lãnh_đạo cũ name tgđ thu_nhập number tỷ date nhưng vẫn thấp hơn nhiều chủ_tịch name,2
+895,train_895,không_chỉ được nhận cổ_tức nhà_đầu_tư còn nhận thêm tiền với giá_trị tương_đương khi tham_dự đhcđ name number,2
+896,train_896,name name name name đã huy_động hơn number tỷ đồng từ đợt name,2
+897,train_897,nhiều quỹ thắng lớn trên name loc trong date bộ đôi name name name và name name bỏ xa phần còn lại,2
+898,train_898,thuỷ_điện name name name name name name name kế_hoạch lãi sau thuế date giảm percent về mức number tỷ đồng,0
+899,train_899,chủ_tịch hđqt name name name đăng_ký mua gần number triệu cổ_phiếu name,2
+900,train_900,thuỷ_sản loc name chốt quyền tạm_ứng cổ_tức đợt date bằng tiền tỷ_lệ percent,2
+901,train_901,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+902,train_902,không có lý_do gì lại đầu_tư vào những cổ_phiếu siêu rủi_ro,1
+903,train_903,name name name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+904,train_904,xây_dựng number name name giá tăng phi_mã sau gần nửa năm chuẩn_bị phát_hành tăng gấp rưỡi vốn với giá không dưới number đồng / cp,2
+905,train_905,hoàn tiền liền_tay – mở ngay tài_khoản hoàn percent phí giao_dịch,2
+906,train_906,name đặt kế_hoạch name date tăng percent lên number tỷ đồng,2
+907,train_907,vượt number điểm name name sẽ tăng tiếp tới đâu ?,2
+908,train_908,name chủ_động minh_bạch số_liệu tài_chính,2
+909,train_909,dịch_vụ phân_phối tổng_hợp dầu_khí name lên kế_hoạch lợi_nhuận date tăng percent,2
+910,train_910,name đã bán xong cổ_phiếu name ?,1
+911,train_911,người_nhà lãnh_đạo name đã bán xong số cổ_phiếu trị_giá number tỷ đồng sẵn_sàng tiền để mua nhà ở,1
+912,train_912,name name lập đỉnh lịch_sử tăng mạnh hàng_đầu loc trong ngày mở_màn date,2
+913,train_913,name name name thoái vốn cổ_phiếu name name lập đỉnh lịch_sử,2
+914,train_914,khối ngoại trở_lại mua ròng name name lập đỉnh lịch_sử trong phiên date,2
+915,train_915,name và công_ty con đã bán xong hơn number triệu cổ_phiếu thu về gần number tỷ để mở_rộng quỹ đất,2
+916,train_916,name name date lãi trước thuế number tỷ đồng tăng percent cùng kỳ date,2
+917,train_917,hết quý name chiêm_nghiệm lời tiên_đoán của cựu chủ_tịch name name name khoán không sập mà chạm ngưỡng lịch_sử name sốt khắp_nơi,2
+918,train_918,khối ngoại bán ròng hơn number tỷ đồng chỉ trong date gần bằng lực bán ròng trong cả date,0
+919,train_919,đhđcđ name name đặt mục_tiêu có lãi mỏng trong năm nay,1
+920,train_920,bùng_nổ trong ngày đầu date name name lên mức cao nhất trong lịch_sử,2
+921,train_921,ông name cơ_hội để name name vươn lên number number điểm trong date là khó,0
+922,train_922,name phát_hành cổ_phiếu name cho lãnh_đạo cấp cao trị_giá khoảng number tỷ đồng,2
+923,train_923,name giảm percent từ đầu năm một lãnh_đạo công_ty vẫn quyết bán hơn number triệu cổ_phiếu để lấy vốn đầu_tư,0
+924,train_924,name name name name name name name name name name name name name tin giao_dịch lượng lớn cổ_phiếu,1
+925,train_925,name nửa năm làm cổ_đông lớn number lãnh_đạo của name name name lại đăng_ký bán ra gần number triệu cổ_phiếu name,0
+926,train_926,name tổ_chức đại_hội cổ_đông date theo hình_thức percent trực_tuyến,1
+927,train_927,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+928,train_928,name name name điều_chỉnh tăng number tỷ đồng lợi_nhuận sau thuế sau kiểm_toán lên number tỷ đồng,2
+929,train_929,trong date qua chứng_khoán loc có xác_suất giảm điểm_cao nhất vào date,0
+930,train_930,name name name name triển_khai phương_án phát_hành number triệu cổ_phiếu trả cổ_tức,2
+931,train_931,name name phát_hành number triệu cổ_phiếu thưởng tỷ_lệ percent,2
+932,train_932,name name lại trình kế_hoạch mua number triệu cổ_phiếu quỹ thực_hiện từ nay đến thángdate,2
+933,train_933,name name tịch name name các sở không cải_cách quản_trị đề_xuất cổ_phần_hoá name name,1
+934,train_934,name khối ngoại bán ròng và name là những yếu_tố tiêu_cực tác_động lên thị_trường trong date,0
+935,train_935,name name vượt mốc number điểm khối ngoại vẫn bán ròng hơn number tỷ đồng trong phiên date,0
+936,train_936,name đặt kế_hoạch lãi đi ngang với number tỷ đồng date đề_xuất chia cổ_tức date tỷ_lệ percent,2
+937,train_937,chứng_khoán name name name điều_chỉnh kế_hoạch tăng vốn đặt kế_hoạch lên sàn niêm_yết,2
+938,train_938,name name tăng mạnh name lên mốc number điểm,2
+939,train_939,vì sao khối ngoại bán ròng giá_trị hàng tỷ name tại loc trong hơn một năm qua ?,0
+940,train_940,name name đặt kế_hoạch lãi sau thuế date tăng percent,2
+941,train_941,loạt lãnh_đạo của name name name bất_ngờ đăng_ký bán sạch gần number cổ_phiếu name đang sở_hữu,0
+942,train_942,đhcđ name name tăng tỷ_trọng mảng tân_dược ước lãi date tăng_trưởng percent,2
+943,train_943,những cơn_sốt trên thị_trường bất_động_sản chứng_khoán và tác_động không mong_muốn của chính_sách tiền_tệ,1
+944,train_944,có number triệu đồng muốn đầu_tư chứng_khoán mà không có thời_gian xem bảng giá thì phải làm_sao ?,1
+945,train_945,name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+946,train_946,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+947,train_947,name name quỹ đầu_cơ vô_danh đến vụ nổ gây sốc ở loc loc,1
+948,train_948,cổ_phiếu name tím trần liên_tiếp sức hút nhờ đâu ?,2
+949,train_949,bảo_hiểm bưu_điện name name tịch hđqt không nhận lương nhưng được trả gần number tỷ tiền thuê nhà học_phí cho con và các chi_phí hoạt_động khác,1
+950,train_950,name name kế_hoạch lãi sau thuế number tỷ đồng date thông_qua quyết_định chuyển sàn tạm_thời sang name,1
+951,train_951,vụ quỹ đầu_tư name sụp_đổ vì sao name và name có_thể thoát hàng còn name và name cay_đắng chịu lỗ hàng tỷ name chỉ trong vài ngày ?,0
+952,train_952,name đã vào khảo_sát hệ_thống name name name thành_lập name name đạo xử_lý sự_cố nghẽn lệnh,2
+953,train_953,name name giữ loc ở lại trong danh_sách theo_dõi nâng hạng thị_trường mới nổi,2
+954,train_954,hose đặt kế_hoạch lãi number tỷ đồng trong date tập_trung triển_khai hệ_thống name,2
+955,train_955,name chính_thức chào_bán number triệu cổ_phiếu,2
+956,train_956,thị_trường tăng mạnh khối ngoại vẫn bán ròng gần number tỷ đồng trong phiên date,0
+957,train_957,name chi_trả cổ_tức bằng tiền tỷ_lệ percent mua number triệu cổ_phiếu sau khi lộ diện cổ_đông chi_phối,2
+958,train_958,name name name và number cổ_phiếu ngân_hàng sẽ được thêm mới vào rổ name trong kỳ review date,2
+959,train_959,tỷ_phú name name nhất percent số cửa_hàng name sẽ bắt_đầu triển_khai dịch_vụ tài_chính trong năm nay đối_tác đã rất rõ_ràng là name,1
+960,train_960,name name đặt kế_hoạch lãi trước thuế date tăng_trưởng percent lên mức number tỷ đồng,2
+961,train_961,cổ_phiếu loc nào hưởng lợi từ sự_kiện tắc_nghẽn kênh đào name,1
+962,train_962,name chính_thức lên_tiếng về tình_trạng quá_tải hệ_thống và giải_pháp khắc_phục,1
+963,train_963,name tăng trần với khối_lượng khớp lệnh number triệu đơn_vị name name bứt_phá hơn number điểm,2
+964,train_964,chủ_tịch name bà name date cơ_hội name cực_kỳ lớn dù cổ_phiếu tăng phi_mã nhưng vẫn chưa phản_ánh đúng giá_trị công_ty,1
+965,train_965,bối_cảnh kinh_tế vĩ_mô và tác_động tới thị_trường_chứng_khoán loc,1
+966,train_966,lịch chốt quyền nhận cổ_tức bằng tiền của number doanh_nghiệp,2
+967,train_967,name name name name name name name name name name name tin giao_dịch lượng lớn cổ_phiếu,1
+968,train_968,name do nhà_đầu_tư bỗng quan_tâm đến công_ty chứng_khoán vốn ngoại này,1
+969,train_969,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+970,train_970,name name name date chưa book kịp lợi_nhuận date dự đạt lãi sau thuế number number tỷ đồng,2
+971,train_971,tổng huy_động vốn trên name trong date đạt number tỷ đồng tăng percent so với cùng kỳ năm trước,2
+972,train_972,đất name name name với giá number đồng / cp nhà_đầu_tư đăng_ký mua trên number cổ_phiếu sẽ được mua nhà ưu_đãi,1
+973,train_973,sự_kiện chấn_động loc loc number quỹ đầu_tư cháy tài_khoản hàng_loạt ngân_hàng lừng_danh bị liên_luỵ tạo ra cơn bán_tháo lớn nhất trong lịch_sử,0
+974,train_974,name name giới tuyên_truyền sai tình_trạng quá_tải yêu_cầu sếp name giám_sát nhân_viên,0
+975,train_975,thị_trường hồi_phục khối ngoại vẫn bán ròng number tỷ đồng trong phiên date,0
+976,train_976,name tặng đêm nghỉ number sao cho tất_cả cổ_đông,1
+977,train_977,đhcđ name name name đặt kế_hoạch lợi_nhuận date gấp number lần phát_hành tăng vốn mua cổ_phần name name name,2
+978,train_978,name name name name ước lợi_nhuận date đạt number tỷ gấp đôi kế_hoạch năm,2
+979,train_979,đầu_tư chứng_khoán cần bớt để_ý đến name name,1
+980,train_980,lịch_sự kiện và tin_vắn chứng_khoán ngày date,1
+981,train_981,thị_trường_chứng_khoán loc có sức phục_hồi mạnh nhất loc và lọt name number thế_giới,2
+982,train_982,điểm_danh những doanh_nghiệp chốt quyền nhận cổ_tức bằng tiền bằng cổ_phiếu và cổ_phiếu thưởng tuần từ date date,2
+983,train_983,name name name tiếp_tục kịch_bản sideway nhà_đầu_tư ưu_tiên gia_tăng tỷ_trọng tiền_mặt,0
+984,train_984,name thế dòng tiền lợi_nhuận date sẽ là bệ đỡ,0
+985,train_985,thị_giá tăng gấp number lần sau khi trở_thành cổ_đông lớn cựu sếp name đang nắm giữ lượng cổ_phiếu name trị_giá gần number tỷ đồng,2
+986,train_986,name name name name name name name name name name name name thông_tin giao_dịch lượng lớn cổ_phiếu,1
+987,train_987,sự_thật trần_trụi về các nhân_viên ngân_hàng đầu_tư loc loc làm_việc ' bán_mạng ' number giờ / tuần để đổi lấy mức lương number name / năm bị gọi là ' công_nhân tài_chính ',1
+988,train_988,thành_bại tại margin,1
+989,train_989,khối ngoại giảm bán ròng trong tuần từ number date nhờ thoả_thuận mạnh name name và name,2
+990,train_990,nhà_đầu_tư chú_ý number doanh_nghiệp tiên_phong chuyển sàn tạm từ name sang name sẽ giao_dịch phiên đầu vào tuần sau,1
+991,train_991,công_suất điện của name sẽ tăng gấp đôi lên numberw mảng cáp điện có_thể gặp khó do giá đồng,0
+992,train_992,thị_phần sữa_đậu_nành nhảy_vọt lên percent nhưng name đang bị thách_thức lớn trước cơn_sốt tăng_giá nông_sản thế_giới,0
+993,train_993,cổ_phiếu tăng phi_mã từ number lên number đồng lãnh_đạo name cho biết đã full đơn hàng đến hết date,2
+994,train_994,lợi_nhuận tăng gấp đôi một cổ_phiếu ngành giấy có name hơn number đồng name number lần,2
+995,train_995,name tăng cổ_tức date lên percent đặt kế_hoạch lợi_nhuận number tỷ đồng trong date,2
+996,train_996,name nào vốn ngoại hết đảo chiều ?,1
+997,train_997,ông name name name đạt number điểm vào cuối date là con_số hợp_lý,2
+998,train_998,name name name đặt kế_hoạch name tăng percent lên number tỷ đồng,2
+999,train_999,thế_giới name động name lợi_nhuận date đầu năm tăng percent lên number tỷ đồng trong khi doanh_thu của đmx và name không tăng_trưởng,2
+1000,train_1000,kỳ_vọng cược tàu vẫn ở mức cao name name đặt kế_hoạch lợi_nhuận tăng percent lên number tỷ đồng,2
+1001,train_1001,lãnh_đạo yếu_kém mâu_thuẫn nội_bộ khiến cổ_đông lớn của number doanh_nghiệp phải triệu_tập đhđcđ bất_thường để thay tướng,0
+1002,train_1002,[ nhịp đập phái_sinh phiên date ] phiên chốt tuần cao_trào cảm_xúc,0
+1003,train_1003,khối ngoại trở_lại bán ròng gần number tỷ đồng trong phiên cuối tuần,0
+1004,train_1004,name name name tăng mạnh name chỉ còn giảm nhẹ cuối phiên,0
+1005,train_1005,điều gì khiến khối ngoại bán ròng hơn number tỷ trên name loc sau date đầu năm ?,0
+1006,train_1006,name name date kinh_doanh cốt_lõi giảm_sút mạnh muốn vay number tỷ trái_phiếu cho dự_án trọng_điểm từ tháng date,0
+1007,train_1007,name name bán xong gần number triệu cổ_phiếu name thoái vốn khỏi name name,0
+1008,train_1008,[ nhịp đập phái_sinh phiên date ] phiên giao_dịch co_giật không rõ xu_hướng,0
+1009,train_1009,lỗ gần number tỷ name bị cắt margin và rơi vào diện cảnh_báo,0
+1010,train_1010,name name tạm_thời bị loại khỏi rổ name do chuyển_giao dịch sang name,0
+1011,train_1011,chứng_khoán loc đang dẫn_đầu bỗng trở_nên tụt_hậu,0
+1012,train_1012,vì sao mốc number điểm như thành_trì cố xô nhưng chưa_thể đổ ?,0
+1013,train_1013,từ chứng_khoán name đến loc cái bẫy name dành cho những nhà_đầu_tư thế_hệ number number đời_đầu,0
+1014,train_1014,ông name name dụng lô number với cổ_phiếu có thị_giá dưới number đồng sẽ giúp giảm hơn percent số lệnh trên thị_trường,0
+1015,train_1015,mổ_xẻ khoản lỗ number tỷ name của name trước thềm niêm_yết thông_qua name,0
+1016,train_1016,name đăng_ký bán toàn_bộ number triệu cổ_phiếu name game thâu_tóm name đã kích_hoạt trở_lại ?,0
+1017,train_1017,bán ròng_rã tỷ_lệ sở_hữu của khối ngoại với cổ_phiếu loc giảm xuống mức thấp nhất trong vòng number năm,0
+1018,train_1018,phiên date khối ngoại_tiếp tục bán ròng number tỷ đồng tập_trung bán name name name,0
+1019,train_1019,name giảm number điểm cuối phiên thị_trường_chứng_khoán đang kiểm_định tâm_lý nhà_đầu_tư,0
+1020,train_1020,chủ_tịch đầu_tư xây_dựng và phát_triển đô_thị name name name đã bán xong number triệu cổ_phiếu,0
+1021,train_1021,name đã bán xong number triệu cổ_phiếu quỹ,0
+1022,train_1022,name name đã bán xong number triệu cổ_phiếu quỹ thu về hơn number tỷ đồng,0
+1023,train_1023,khối ngoại_tiếp tục bán ròng gần number tỷ đồng trong phiên date,0
+1024,train_1024,name gì khi khối ngoại bán ròng ?,0
+1025,train_1025,sắc đỏ bao_trùm thị_trường cổ_phiếu họ name ngược dòng bứt_phá,0
+1026,train_1026,name thêm vốn vào các khu công_nghiệp name name name name tiếp_tục bán number tỷ trái_phiếu trong quý date,0
+1027,train_1027,giải_quyết nhu_cầu tài_chính name của name name đăng_ký bán number triệu cổ_phiếu name,0
+1028,train_1028,cổ_phiếu ngân_hàng đua nhau giảm name không lấy lại được mốc number điểm,0
+1029,train_1029,phiên date khối ngoại_tiếp tục bán ròng number tỷ đồng tập_trung xả name name name,0
+1030,train_1030,name name name tăng lỗ ròng lên gần number tỷ đồng sau kiểm_toán giá_trị name dở_dang gần number tỷ đồng,0
+1031,train_1031,name name name có_thể vượt number điểm nhưng khó đi xa trong giai_đoạn cuối date,0
+1032,train_1032,name name thông_qua phương_án phát_hành hơn number triệu cổ_phiếu trả cổ_tức,0
+1033,train_1033,đầu_tư chứng_khoán như bài_toán cho number người làm và chỉ có number number người giải đúng,0
+1034,train_1034,khối ngoại bán ròng gần number tỷ đồng trong tuần name name chạm mốc number tỷ đồng,0
+1035,train_1035,name name phát_hành hơn number triệu cổ_phiếu chuyển_đổi trái_phiếu quốc_tế muốn vay thêm number tỷ đồng,0
+1036,train_1036,nhà_đầu_tư bất_ngờ xáo_động phiên name tái cơ_cấu danh_mục name mất number điểm,0
+1037,train_1037,name huỷ niêm_yết hơn number triệu cổ_phiếu giảm vốn_điều_lệ,0
+1038,train_1038,khối ngoại_tiếp tục bán ròng hơn number tỷ đồng trong ngày name name chạm mốc number điểm,0
+1039,train_1039,name tiếp_tục bán number triệu cổ_phiếu name name name giảm sở_hữu xuống percent vốn,0
+1040,train_1040,phiên date khối ngoại_tiếp tục bán ròng hơn number tỷ đồng tập_trung xả name name name,0
+1041,train_1041,điện_lực name name number name name lao_động nhận lương bình_quân gần number triệu đồng / tháng ; đặt kế_hoạch lãi date giảm percent,0
+1042,train_1042,[ nhịp đập phái_sinh phiên date ] phe short dẫn trước đồng nhịp với thị_trường cơ_sở,0
+1043,train_1043,khối ngoại_tiếp tục bán ròng name name mất mốc number điểm trong phiên date,0
+1044,train_1044,name tiến sát number điểm các doanh_nghiệp đua nhau đưa cổ_phiếu quỹ ra bán,0
+1045,train_1045,vừa bán xong gần number triệu cổ_phiếu name lãnh_đạo name number lại đăng_ký bán tiếp number triệu cổ_phiếu,0
+1046,train_1046,gặp khó name ăn_hàng không loc name cấp bánh suất ăn cho cả học_sinh điều_chỉnh giảm lỗ gần number tỷ đồng sau kiểm_toán,0
+1047,train_1047,nhà_đầu_tư thận_trọng rót tiền name đi ngang cùng thanh khoản cao,0
+1048,train_1048,name lên_tiếng về việc bất_ngờ xuất_hiện khoản lỗ number tỷ,0
+1049,train_1049,thành_viên hđqt name number đã bán xong gần number triệu cổ_phiếu name,0
+1050,train_1050,name name vừa thông_báo thắng kiện name cho biết đã nộp đơn kiện ngược_lại,0
+1051,train_1051,cơ_điện lạnh name lại muốn bán tiếp number triệu cổ_phần tại name name,0
+1052,train_1052,thị_giá giảm percent từ đỉnh number cổ_đông lớn của name name name name name name vẫn đăng_ký thoái sạch vốn,0
+1053,train_1053,lời cảnh_báo của chuyên_gia loc date trước và thế khó của name,0
+1054,train_1054,name thua kiện nhà_thầu name name sẽ phải thanh_toán số tiền hơn number tỷ đồng,0
+1055,train_1055,thị_trường hồi_phục khối ngoại vẫn bán ròng number tỷ đồng trong phiên date,0
+1056,train_1056,name thoả_thuận hơn number triệu cổ_phiếu nhóm name sắp bán xong số_lượng đăng_ký,0
+1057,train_1057,name hệ_thống giao_dịch tắc_nghẽn là trở_ngại lớn với thị_trường lúc này,0
+1058,train_1058,khối ngoại_tiếp tục bán ròng number tỷ đồng trong phiên date,0
+1059,train_1059,nhà_đầu_tư ngoại rút vốn khỏi thị_trường – name chim sợ cành cong ?,0
+1060,train_1060,tiếp_tục nghẽn lệnh name name giảm hơn number điểm trước áp_lực bán mạnh của khối ngoại,0
+1061,train_1061,phiên date khối ngoại_tiếp tục bán ròng gần number tỷ đồng,0
+1062,train_1062,vốn đã lao_đao vì xe công_nghệ taxi name lỗ number tỷ date do tác_động của đại_dịch,0
+1063,train_1063,chứng_khoán name từ number điểm trở lên name name bước vào vùng rủi_ro và có_thể xuất_hiện nhịp điều_chỉnh mạnh,0
+1064,train_1064,name loc loc đối_mặt triển_vọng u_ám dưới thời name,0
+1065,train_1065,hose giao_dịch hơn number nghìn tỷ name giảm number điểm cuối phiên,0
+1066,train_1066,name lắc mạnh trong phiên chiều name name thất_bại trước mốc number điểm,0
+1067,train_1067,cổ_đông sáng_lập name name và dàn lãnh_đạo thay_đổi nhiều lần trước khi name khởi_kiện vì dự_án loc,0
+1068,train_1068,những cổ_phiếu tăng sốc – giảm sâu date để lại nhiều cảm_xúc cho nhà_đầu_tư,0
+1069,train_1069,name name bị truy_thu và phạt gần number tỷ đồng_tiền thuế,0
+1070,train_1070,name name tịch name name name bán hết number triệu cổ_phiếu,0
+1071,train_1071,huyền_thoại name rút_lui khỏi quỹ định_lượng đình_đám name name quy_mô number tỷ name do mình sáng_lập,0
+1072,train_1072,name date lỗ tiếp number tỷ đồng,0
+1073,train_1073,thuỷ_sản name name name doanh dưới giá_vốn khiến date lỗ tiếp number tỷ đồng,0
+1074,train_1074,name name chốt quyền tạm_ứng cổ_tức đợt date bằng tiền tỷ_lệ percent,0
+1075,train_1075,công_viên_nước name name name date lãi number tỷ đồng – thấp nhất trong vòng date qua,0
+1076,train_1076,name name vật name name name chốt ngày họp đhđcđ bất_thường,0
+1077,train_1077,loc loc đăng_ký bán hết hơn number triệu cổ_phiếu name,0
+1078,train_1078,phiên date khối ngoại_tiếp tục bán ròng hơn number tỷ đồng tập_trung bán name,0
+1079,train_1079,name name chỉ hoạt_động cầm_chừng date báo lỗ number tỷ đồng,0
